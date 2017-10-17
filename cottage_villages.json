@@ -11,7 +11,9 @@
     "IsAvdVisible": true,
     "lat_origin": 56.581636540839305,
     "lng_origin": 60.972688961773,
-    "OSTNameTranslit": "brusnika"
+    "OSTNameTranslit": "brusnika",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 70.8985589630115,
@@ -25,7 +27,9 @@
     "IsAvdVisible": true,
     "lat_origin": 56.8151093259631,
     "lng_origin": 60.475358963011494,
-    "OSTNameTranslit": "obrazczovo"
+    "OSTNameTranslit": "obrazczovo",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 51.7354570739708,
@@ -39,7 +43,9 @@
     "IsAvdVisible": true,
     "lat_origin": 56.7017614135787,
     "lng_origin": 61.1586570739708,
-    "OSTNameTranslit": "lisigorki"
+    "OSTNameTranslit": "lisigorki",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 68.8461593276963,
@@ -53,7 +59,9 @@
     "IsAvdVisible": true,
     "lat_origin": 56.6642092022799,
     "lng_origin": 60.4229593276963,
-    "OSTNameTranslit": "dobryjgorod"
+    "OSTNameTranslit": "dobryjgorod",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 53.4843164794922,
@@ -67,7 +75,9 @@
     "IsAvdVisible": true,
     "lat_origin": 56.2872025888621,
     "lng_origin": 60.9075164794922,
-    "OSTNameTranslit": "lukomore"
+    "OSTNameTranslit": "lukomore",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 67.7136770858581,
@@ -81,7 +91,9 @@
     "IsAvdVisible": true,
     "lat_origin": 56.657419585384204,
     "lng_origin": 61.29047708585809,
-    "OSTNameTranslit": "rajnvald"
+    "OSTNameTranslit": "rajnvald",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 54.9768854492181,
@@ -95,7 +107,9 @@
     "IsAvdVisible": true,
     "lat_origin": 56.6480460877944,
     "lng_origin": 60.400085449218096,
-    "OSTNameTranslit": "evraziya2"
+    "OSTNameTranslit": "evraziya2",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 65.3464075698674,
@@ -109,7 +123,9 @@
     "IsAvdVisible": true,
     "lat_origin": 56.5567128665219,
     "lng_origin": 60.923207569867394,
-    "OSTNameTranslit": "zapovednik"
+    "OSTNameTranslit": "zapovednik",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 57.0480660796925,
@@ -123,7 +139,9 @@
     "IsAvdVisible": true,
     "lat_origin": 56.7890897485758,
     "lng_origin": 60.4712660796925,
-    "OSTNameTranslit": "michurinskij"
+    "OSTNameTranslit": "michurinskij",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 62.8236287719727,
@@ -137,7 +155,9 @@
     "IsAvdVisible": true,
     "lat_origin": 56.65461647002999,
     "lng_origin": 60.4004287719727,
-    "OSTNameTranslit": "dobrovosever"
+    "OSTNameTranslit": "dobrovosever",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 59.5715903640568,
@@ -151,7 +171,9 @@
     "IsAvdVisible": true,
     "lat_origin": 56.8884814090961,
     "lng_origin": 60.9947903640568,
-    "OSTNameTranslit": "xoroshiesosedi"
+    "OSTNameTranslit": "xoroshiesosedi",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 61.1513144149595,
@@ -165,7 +187,9 @@
     "IsAvdVisible": true,
     "lat_origin": 56.8853570373995,
     "lng_origin": 60.7281144149595,
-    "OSTNameTranslit": "shartashskijzhsk"
+    "OSTNameTranslit": "shartashskijzhsk",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 61.5380464904767,
@@ -179,7 +203,9 @@
     "IsAvdVisible": true,
     "lat_origin": 56.7291850180969,
     "lng_origin": 60.9612464904767,
-    "OSTNameTranslit": "bobry"
+    "OSTNameTranslit": "bobry",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 59.2926505691514,
@@ -193,7 +219,9 @@
     "IsAvdVisible": true,
     "lat_origin": 56.55617891362439,
     "lng_origin": 60.8694505691514,
-    "OSTNameTranslit": "nikolinklyuch"
+    "OSTNameTranslit": "nikolinklyuch",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 63.1122833602876,
@@ -207,7 +235,9 @@
     "IsAvdVisible": true,
     "lat_origin": 56.7791550869793,
     "lng_origin": 60.5354833602876,
-    "OSTNameTranslit": "akademicheskijzhspk"
+    "OSTNameTranslit": "akademicheskijzhspk",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 57.3864905013848,
@@ -221,7 +251,9 @@
     "IsAvdVisible": true,
     "lat_origin": 56.774448550346094,
     "lng_origin": 60.9632905013848,
-    "OSTNameTranslit": "alyeparusa"
+    "OSTNameTranslit": "alyeparusa",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 65.007339418011,
@@ -235,7 +267,9 @@
     "IsAvdVisible": true,
     "lat_origin": 56.9688026649895,
     "lng_origin": 60.430539418010994,
-    "OSTNameTranslit": "nyukoptyaki"
+    "OSTNameTranslit": "nyukoptyaki",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 55.2664133682068,
@@ -249,7 +283,9 @@
     "IsAvdVisible": true,
     "lat_origin": 56.5697216702041,
     "lng_origin": 60.8432133682068,
-    "OSTNameTranslit": "pinecreek"
+    "OSTNameTranslit": "pinecreek",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 66.9097070098697,
@@ -263,7 +299,9 @@
     "IsAvdVisible": true,
     "lat_origin": 56.5868229513784,
     "lng_origin": 60.3329070098697,
-    "OSTNameTranslit": "raskuixa"
+    "OSTNameTranslit": "raskuixa",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 53.2611776962083,
@@ -277,7 +315,9 @@
     "IsAvdVisible": true,
     "lat_origin": 56.63261704370339,
     "lng_origin": 60.8379776962083,
-    "OSTNameTranslit": "borodulinskij"
+    "OSTNameTranslit": "borodulinskij",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 68.7181059234614,
@@ -291,7 +331,9 @@
     "IsAvdVisible": true,
     "lat_origin": 56.855873914666596,
     "lng_origin": 60.14130592346139,
-    "OSTNameTranslit": "alekseevka"
+    "OSTNameTranslit": "alekseevka",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 51.035458911131,
@@ -305,7 +347,9 @@
     "IsAvdVisible": true,
     "lat_origin": 56.99802071381089,
     "lng_origin": 60.612258911131,
-    "OSTNameTranslit": "perspektiva"
+    "OSTNameTranslit": "perspektiva",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 71.1367720962346,
@@ -319,7 +363,9 @@
     "IsAvdVisible": true,
     "lat_origin": 56.6976976489931,
     "lng_origin": 60.55997209623459,
-    "OSTNameTranslit": "romashkino"
+    "OSTNameTranslit": "romashkino",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 48.9066218509481,
@@ -333,7 +379,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.81025809952979,
     "lng_origin": 60.4834218509481,
-    "OSTNameTranslit": "namaloprudnoj"
+    "OSTNameTranslit": "namaloprudnoj",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 72.397748410777,
@@ -347,7 +395,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.9864076436524,
     "lng_origin": 59.82094841077699,
-    "OSTNameTranslit": "rodnichok"
+    "OSTNameTranslit": "rodnichok",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 46.899959243755,
@@ -361,7 +411,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.80687997352149,
     "lng_origin": 60.476759243755,
-    "OSTNameTranslit": "forrestxaus"
+    "OSTNameTranslit": "forrestxaus",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 75.4762483947733,
@@ -375,7 +427,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.9446246082963,
     "lng_origin": 60.89944839477329,
-    "OSTNameTranslit": "lesnayausadba"
+    "OSTNameTranslit": "lesnayausadba",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 44.873753894043,
@@ -389,7 +443,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.957518718822996,
     "lng_origin": 60.450553894043,
-    "OSTNameTranslit": "zolotayagorka"
+    "OSTNameTranslit": "zolotayagorka",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 77.219657551574,
@@ -403,7 +459,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.7253033754811,
     "lng_origin": 60.642857551574,
-    "OSTNameTranslit": "troiczkij"
+    "OSTNameTranslit": "troiczkij",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 42.9525893814087,
@@ -417,7 +475,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.7836971096919,
     "lng_origin": 60.5293893814087,
-    "OSTNameTranslit": "evropejskij"
+    "OSTNameTranslit": "evropejskij",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 79.3754402511556,
@@ -431,7 +491,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.80442197409,
     "lng_origin": 60.79864025115559,
-    "OSTNameTranslit": "novoesozvezdie"
+    "OSTNameTranslit": "novoesozvezdie",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 41.2846523895077,
@@ -445,7 +507,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.60079191652619,
     "lng_origin": 60.8614523895077,
-    "OSTNameTranslit": "olxovskij"
+    "OSTNameTranslit": "olxovskij",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 81.4926690459994,
@@ -459,7 +523,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.5447664021247,
     "lng_origin": 60.9158690459994,
-    "OSTNameTranslit": "parkfilino"
+    "OSTNameTranslit": "parkfilino",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 39.6168600692542,
@@ -473,7 +539,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.71374956557719,
     "lng_origin": 61.1936600692542,
-    "OSTNameTranslit": "zodiak"
+    "OSTNameTranslit": "zodiak",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 83.0737723708928,
@@ -487,7 +555,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.6599722062167,
     "lng_origin": 60.49697237089279,
-    "OSTNameTranslit": "ulese"
+    "OSTNameTranslit": "ulese",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 37.3645766860948,
@@ -501,7 +571,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.61162394936379,
     "lng_origin": 60.9413766860948,
-    "OSTNameTranslit": "gazovik"
+    "OSTNameTranslit": "gazovik",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 85.0348266959959,
@@ -515,7 +587,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.992106234154896,
     "lng_origin": 60.4580266959959,
-    "OSTNameTranslit": "viktoriya"
+    "OSTNameTranslit": "viktoriya",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 34.8047300948906,
@@ -529,7 +603,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.64195834075109,
     "lng_origin": 60.3815300948906,
-    "OSTNameTranslit": "belyerosy"
+    "OSTNameTranslit": "belyerosy",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 87.0535163284123,
@@ -543,7 +619,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.8087162062676,
     "lng_origin": 60.476716328412294,
-    "OSTNameTranslit": "nalistvennoj"
+    "OSTNameTranslit": "nalistvennoj",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 33.4123255386173,
@@ -557,7 +635,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.730313600104594,
     "lng_origin": 60.9891255386173,
-    "OSTNameTranslit": "novokosulino2"
+    "OSTNameTranslit": "novokosulino2",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 89.1640821807861,
@@ -571,7 +651,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.8018417308154,
     "lng_origin": 60.58728218078609,
-    "OSTNameTranslit": "amundsenavolgogradskaya"
+    "OSTNameTranslit": "amundsenavolgogradskaya",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 31.3567930831725,
@@ -585,7 +667,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.53800928617099,
     "lng_origin": 60.933593083172504,
-    "OSTNameTranslit": "parksobol"
+    "OSTNameTranslit": "parksobol",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 91.4604396224797,
@@ -599,7 +683,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.618636235218,
     "lng_origin": 60.88363962247969,
-    "OSTNameTranslit": "shato2"
+    "OSTNameTranslit": "shato2",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 29.2342697753715,
@@ -613,7 +699,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.4491652824715,
     "lng_origin": 60.8110697753715,
-    "OSTNameTranslit": "chistyeprudy"
+    "OSTNameTranslit": "chistyeprudy",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 93.1161028259265,
@@ -627,7 +715,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.767011899658904,
     "lng_origin": 60.5393028259265,
-    "OSTNameTranslit": "narazlivnoj"
+    "OSTNameTranslit": "narazlivnoj",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 27.3967987645529,
@@ -641,7 +731,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.76393400150209,
     "lng_origin": 60.973598764552904,
-    "OSTNameTranslit": "lesnyedachi"
+    "OSTNameTranslit": "lesnyedachi",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 95.5049587600699,
@@ -655,7 +747,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.7314618571931,
     "lng_origin": 60.92815876006989,
-    "OSTNameTranslit": "chistyerosy"
+    "OSTNameTranslit": "chistyerosy",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 24.3467375411809,
@@ -669,7 +763,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.77984396401939,
     "lng_origin": 59.9235375411809,
-    "OSTNameTranslit": "sosny"
+    "OSTNameTranslit": "sosny",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 97.7429942489427,
@@ -683,7 +779,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.7380268235443,
     "lng_origin": 61.16619424894269,
-    "OSTNameTranslit": "brusyankavillage"
+    "OSTNameTranslit": "brusyankavillage",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 23.3587242736633,
@@ -697,7 +795,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.5281678114156,
     "lng_origin": 60.9355242736633,
-    "OSTNameTranslit": "parksovyata"
+    "OSTNameTranslit": "parksovyata",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 99.1095796936014,
@@ -711,7 +811,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.6664367512197,
     "lng_origin": 60.5327796936014,
-    "OSTNameTranslit": "lesnyetropy"
+    "OSTNameTranslit": "lesnyetropy",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 20.9141213073442,
@@ -725,7 +827,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.80082918269959,
     "lng_origin": 60.4909213073442,
-    "OSTNameTranslit": "svetlorechenskij"
+    "OSTNameTranslit": "svetlorechenskij",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 101.546887051392,
@@ -739,7 +843,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.7588868298348,
     "lng_origin": 60.970087051392,
-    "OSTNameTranslit": "snegiri"
+    "OSTNameTranslit": "snegiri",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 19.430566,
@@ -753,7 +859,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.729186999999996,
     "lng_origin": 61.007366,
-    "OSTNameTranslit": "melnicza"
+    "OSTNameTranslit": "melnicza",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 103.019457470703,
@@ -767,7 +875,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.669056671207,
     "lng_origin": 60.442657470703,
-    "OSTNameTranslit": "udachnyj"
+    "OSTNameTranslit": "udachnyj",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 17.6925786621084,
@@ -781,7 +891,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.627383384813,
     "lng_origin": 61.2693786621084,
-    "OSTNameTranslit": "zalesebolshebrusyanskoe"
+    "OSTNameTranslit": "zalesebolshebrusyanskoe",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 105.221916139203,
@@ -795,7 +907,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.9610432767712,
     "lng_origin": 60.645116139203,
-    "OSTNameTranslit": "demidovskij"
+    "OSTNameTranslit": "demidovskij",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 15.4117835647567,
@@ -809,7 +923,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.76139118942699,
     "lng_origin": 60.9885835647567,
-    "OSTNameTranslit": "nadezhdinsk"
+    "OSTNameTranslit": "nadezhdinsk",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 107.123725831585,
@@ -823,7 +939,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.7108465671266,
     "lng_origin": 60.546925831585,
-    "OSTNameTranslit": "peskar"
+    "OSTNameTranslit": "peskar",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 12.9703833236508,
@@ -837,7 +955,9 @@
     "IsAvdVisible": false,
     "lat_origin": 57.16442909931199,
     "lng_origin": 60.5471833236508,
-    "OSTNameTranslit": "tixiedachi"
+    "OSTNameTranslit": "tixiedachi",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 108.955154359416,
@@ -851,7 +971,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.60795787640699,
     "lng_origin": 60.378354359415994,
-    "OSTNameTranslit": "sakurapark"
+    "OSTNameTranslit": "sakurapark",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 11.6013676299842,
@@ -865,7 +987,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.71013848386899,
     "lng_origin": 61.1781676299842,
-    "OSTNameTranslit": "vasilkovyeluga"
+    "OSTNameTranslit": "vasilkovyeluga",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 111.422861706543,
@@ -879,7 +1003,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.77294563993498,
     "lng_origin": 60.846061706543,
-    "OSTNameTranslit": "usadba"
+    "OSTNameTranslit": "usadba",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 9.40708986661669,
@@ -893,7 +1019,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.69583234618,
     "lng_origin": 60.98388986661669,
-    "OSTNameTranslit": "svojdomdpk"
+    "OSTNameTranslit": "svojdomdpk",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 113.472986828612,
@@ -907,7 +1035,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.61303225446671,
     "lng_origin": 60.89618682861199,
-    "OSTNameTranslit": "shato"
+    "OSTNameTranslit": "shato",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 6.63420044250275,
@@ -921,7 +1051,9 @@
     "IsAvdVisible": false,
     "lat_origin": 57.158925961861996,
     "lng_origin": 60.21100044250275,
-    "OSTNameTranslit": "shelespark"
+    "OSTNameTranslit": "shelespark",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 115.063386857585,
@@ -935,7 +1067,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.97393562786702,
     "lng_origin": 60.486586857584996,
-    "OSTNameTranslit": "lesnojzhk"
+    "OSTNameTranslit": "lesnojzhk",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 5.35172907255154,
@@ -949,7 +1083,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.54614138702499,
     "lng_origin": 60.92852907255154,
-    "OSTNameTranslit": "parksokol"
+    "OSTNameTranslit": "parksokol",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 116.984953533934,
@@ -963,7 +1099,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.652582014850914,
     "lng_origin": 60.40815353393401,
-    "OSTNameTranslit": "lugovoe"
+    "OSTNameTranslit": "lugovoe",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 3.56763616941404,
@@ -977,7 +1115,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.675142535538,
     "lng_origin": 61.14443616941404,
-    "OSTNameTranslit": "spiridonovo"
+    "OSTNameTranslit": "spiridonovo",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 119.293343197628,
@@ -991,7 +1131,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.65081382124206,
     "lng_origin": 60.716543197628,
-    "OSTNameTranslit": "grinvill"
+    "OSTNameTranslit": "grinvill",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 1.39766441650352,
@@ -1005,7 +1147,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.669476440306,
     "lng_origin": 60.97446441650352,
-    "OSTNameTranslit": "bobrovskieluga"
+    "OSTNameTranslit": "bobrovskieluga",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 121.613749157713,
@@ -1019,7 +1163,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.72199308685753,
     "lng_origin": 61.036949157712996,
-    "OSTNameTranslit": "novayarassoxa"
+    "OSTNameTranslit": "novayarassoxa",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": -0.427771888751892,
@@ -1033,7 +1179,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.73326226757399,
     "lng_origin": 61.14902811124811,
-    "OSTNameTranslit": "marczipan"
+    "OSTNameTranslit": "marczipan",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 123.05986779936,
@@ -1047,7 +1195,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.80313660753439,
     "lng_origin": 60.483067799360015,
-    "OSTNameTranslit": "smorodinovaya"
+    "OSTNameTranslit": "smorodinovaya",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": -2.99698508911172,
@@ -1061,7 +1211,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.66622302080799,
     "lng_origin": 60.57981491088828,
-    "OSTNameTranslit": "shabrovskij2"
+    "OSTNameTranslit": "shabrovskij2",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 124.116175305176,
@@ -1075,7 +1227,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.765260088431816,
     "lng_origin": 59.53937530517601,
-    "OSTNameTranslit": "rodnoj"
+    "OSTNameTranslit": "rodnoj",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": -4.77331031494363,
@@ -1089,7 +1243,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.786979263056,
     "lng_origin": 60.80348968505637,
-    "OSTNameTranslit": "malyjistok"
+    "OSTNameTranslit": "malyjistok",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 127.544897019939,
@@ -1103,7 +1259,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.59089579495302,
     "lng_origin": 60.968097019938995,
-    "OSTNameTranslit": "marinklyuch"
+    "OSTNameTranslit": "marinklyuch",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": -7.30338438608439,
@@ -1117,7 +1275,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.716475347906,
     "lng_origin": 60.27341561391561,
-    "OSTNameTranslit": "verxnemakarovo"
+    "OSTNameTranslit": "verxnemakarovo",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 129.562737291013,
@@ -1131,7 +1291,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.7745983728644,
     "lng_origin": 60.985937291013016,
-    "OSTNameTranslit": "podkova"
+    "OSTNameTranslit": "podkova",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": -8.63078845672996,
@@ -1145,7 +1307,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.744414059311,
     "lng_origin": 60.94601154327004,
-    "OSTNameTranslit": "kosulinskiedachi"
+    "OSTNameTranslit": "kosulinskiedachi",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 131.142173897552,
@@ -1159,7 +1323,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.7789527111119,
     "lng_origin": 60.56537389755201,
-    "OSTNameTranslit": "sosnovyjbor"
+    "OSTNameTranslit": "sosnovyjbor",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": -11.1656423919719,
@@ -1173,7 +1339,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.82422627462401,
     "lng_origin": 60.4111576080281,
-    "OSTNameTranslit": "karaseozerskij2"
+    "OSTNameTranslit": "karaseozerskij2",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 133.111854206848,
@@ -1187,7 +1355,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.6630206365688,
     "lng_origin": 60.535054206848,
-    "OSTNameTranslit": "lesnayapolyana"
+    "OSTNameTranslit": "lesnayapolyana",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": -12.5705782287612,
@@ -1201,7 +1371,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.883710259081,
     "lng_origin": 61.0062217712388,
-    "OSTNameTranslit": "stanovlyanka"
+    "OSTNameTranslit": "stanovlyanka",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 135.484359394836,
@@ -1215,7 +1387,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.9068443597197,
     "lng_origin": 60.907559394836,
-    "OSTNameTranslit": "shishkino"
+    "OSTNameTranslit": "shishkino",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": -15.1309667938237,
@@ -1229,7 +1403,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.802177866352,
     "lng_origin": 60.4458332061763,
-    "OSTNameTranslit": "palniks"
+    "OSTNameTranslit": "palniks",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 137.335470140056,
@@ -1243,7 +1419,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.5088805619918,
     "lng_origin": 60.75867014005601,
-    "OSTNameTranslit": "zelenyjlook"
+    "OSTNameTranslit": "zelenyjlook",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": -16.7602370605647,
@@ -1257,7 +1435,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.613335889303016,
     "lng_origin": 60.8165629394353,
-    "OSTNameTranslit": "pervomajskijpark"
+    "OSTNameTranslit": "pervomajskijpark",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 139.479209553527,
@@ -1271,7 +1451,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.7169174140904,
     "lng_origin": 60.90240955352701,
-    "OSTNameTranslit": "lesnojpark"
+    "OSTNameTranslit": "lesnojpark",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": -18.3324139938536,
@@ -1285,7 +1467,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.686244653182996,
     "lng_origin": 61.2443860061464,
-    "OSTNameTranslit": "izumrudnyj"
+    "OSTNameTranslit": "izumrudnyj",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 142.203132569867,
@@ -1299,7 +1483,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.8003818146351,
     "lng_origin": 61.626332569867,
-    "OSTNameTranslit": "chudova"
+    "OSTNameTranslit": "chudova",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": -20.2703424804688,
@@ -1313,7 +1499,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.77868934123501,
     "lng_origin": 61.3064575195312,
-    "OSTNameTranslit": "gagarskijklyuch"
+    "OSTNameTranslit": "gagarskijklyuch",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 143.663874279785,
@@ -1327,7 +1515,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.7271051858776,
     "lng_origin": 61.087074279785014,
-    "OSTNameTranslit": "bolshayamedvedicza2"
+    "OSTNameTranslit": "bolshayamedvedicza2",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": -22.5965150222957,
@@ -1341,7 +1531,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.78643991743502,
     "lng_origin": 60.9802849777043,
-    "OSTNameTranslit": "ostrova"
+    "OSTNameTranslit": "ostrova",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 145.56798547514,
@@ -1355,7 +1547,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.6765836343451,
     "lng_origin": 60.991185475140014,
-    "OSTNameTranslit": "dombobra"
+    "OSTNameTranslit": "dombobra",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": -24.5159899108908,
@@ -1369,7 +1563,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.765898798544015,
     "lng_origin": 61.060810089109204,
-    "OSTNameTranslit": "dubrava"
+    "OSTNameTranslit": "dubrava",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 147.203253161239,
@@ -1383,7 +1579,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.8192377473207,
     "lng_origin": 60.626453161239,
-    "OSTNameTranslit": "isetparkovyj"
+    "OSTNameTranslit": "isetparkovyj",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": -26.6860634201069,
@@ -1397,7 +1595,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.625263609705,
     "lng_origin": 60.8907365798931,
-    "OSTNameTranslit": "krasnayapolyana2"
+    "OSTNameTranslit": "krasnayapolyana2",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 149.407782495099,
@@ -1411,7 +1611,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.5809497029609,
     "lng_origin": 60.83098249509902,
-    "OSTNameTranslit": "lesnojruchej"
+    "OSTNameTranslit": "lesnojruchej",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": -28.6687899940517,
@@ -1425,7 +1627,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.780949149554004,
     "lng_origin": 60.9080100059483,
-    "OSTNameTranslit": "georgievskiedachi"
+    "OSTNameTranslit": "georgievskiedachi",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 151.559589993285,
@@ -1439,7 +1643,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.7688682492432,
     "lng_origin": 60.982789993284996,
-    "OSTNameTranslit": "bristol"
+    "OSTNameTranslit": "bristol",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": -30.7551301346004,
@@ -1453,7 +1659,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.87010728191001,
     "lng_origin": 60.8216698653996,
-    "OSTNameTranslit": "evropa2"
+    "OSTNameTranslit": "evropa2",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 153.414691865521,
@@ -1467,7 +1675,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.8680390372533,
     "lng_origin": 60.837891865521016,
-    "OSTNameTranslit": "markovles"
+    "OSTNameTranslit": "markovles",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": -32.6989539489993,
@@ -1481,7 +1691,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.52870144811101,
     "lng_origin": 60.877846051000695,
-    "OSTNameTranslit": "ilinskijkvartal"
+    "OSTNameTranslit": "ilinskijkvartal",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 155.102139413431,
@@ -1495,7 +1707,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.6989253901611,
     "lng_origin": 60.525339413431,
-    "OSTNameTranslit": "sokol"
+    "OSTNameTranslit": "sokol",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": -34.7632681243902,
@@ -1509,7 +1723,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.81121045191702,
     "lng_origin": 60.8135318756098,
-    "OSTNameTranslit": "sozvezdiepremium"
+    "OSTNameTranslit": "sozvezdiepremium",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 156.778257310468,
@@ -1523,7 +1739,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.705417591315395,
     "lng_origin": 60.201457310468015,
-    "OSTNameTranslit": "krylatovskij"
+    "OSTNameTranslit": "krylatovskij",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": -36.9204185829393,
@@ -1537,7 +1755,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.95971862448101,
     "lng_origin": 60.6563814170607,
-    "OSTNameTranslit": "zavidovo"
+    "OSTNameTranslit": "zavidovo",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 158.745314251705,
@@ -1551,7 +1771,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.8568708229412,
     "lng_origin": 60.168514251705005,
-    "OSTNameTranslit": "xrustalnyj"
+    "OSTNameTranslit": "xrustalnyj",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": -38.6022068374735,
@@ -1565,7 +1787,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.77823221936001,
     "lng_origin": 60.974593162526496,
-    "OSTNameTranslit": "polyankarastushhij"
+    "OSTNameTranslit": "polyankarastushhij",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 161.420356690961,
@@ -1579,7 +1803,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.5806654902747,
     "lng_origin": 60.84355669096101,
-    "OSTNameTranslit": "rodnyeprostory"
+    "OSTNameTranslit": "rodnyeprostory",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": -40.5783029907239,
@@ -1593,7 +1819,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.729564086267004,
     "lng_origin": 60.9984970092761,
-    "OSTNameTranslit": "novokosulino"
+    "OSTNameTranslit": "novokosulino",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 163.365457236844,
@@ -1607,7 +1835,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.458287791574996,
     "lng_origin": 60.78865723684402,
-    "OSTNameTranslit": "tixijzaliv"
+    "OSTNameTranslit": "tixijzaliv",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": -43.1816927307139,
@@ -1621,7 +1851,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.651072152213004,
     "lng_origin": 60.3951072692861,
-    "OSTNameTranslit": "solnechnyj"
+    "OSTNameTranslit": "solnechnyj",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 165.130694042969,
@@ -1635,7 +1867,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.784714665393196,
     "lng_origin": 60.553894042969006,
-    "OSTNameTranslit": "amundsenavonsovskogo"
+    "OSTNameTranslit": "amundsenavonsovskogo",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": -45.2262388580346,
@@ -1649,7 +1883,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.72385277916601,
     "lng_origin": 60.3505611419654,
-    "OSTNameTranslit": "evraziya"
+    "OSTNameTranslit": "evraziya",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 167.063831936645,
@@ -1663,7 +1899,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.8179676361868,
     "lng_origin": 60.487031936644996,
-    "OSTNameTranslit": "galaktika"
+    "OSTNameTranslit": "galaktika",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": -46.8472105377197,
@@ -1677,7 +1915,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.885447061541015,
     "lng_origin": 60.7295894622803,
-    "OSTNameTranslit": "bolshayamedvedicza"
+    "OSTNameTranslit": "bolshayamedvedicza",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 169.503049027244,
@@ -1691,7 +1931,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.7561131052233,
     "lng_origin": 60.92624902724401,
-    "OSTNameTranslit": "solnechnayapolyana"
+    "OSTNameTranslit": "solnechnayapolyana",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": -48.6173559539795,
@@ -1705,7 +1947,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.672873173423,
     "lng_origin": 60.9594440460205,
-    "OSTNameTranslit": "dachnoe"
+    "OSTNameTranslit": "dachnoe",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 171.856076181011,
@@ -1719,7 +1963,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.7619112211127,
     "lng_origin": 61.279276181011,
-    "OSTNameTranslit": "kurmanskijklyuch"
+    "OSTNameTranslit": "kurmanskijklyuch",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": -50.6944907531932,
@@ -1733,7 +1979,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.769877154019014,
     "lng_origin": 60.8823092468068,
-    "OSTNameTranslit": "domvistoke"
+    "OSTNameTranslit": "domvistoke",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 172.972620904522,
@@ -1747,7 +1995,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.6449376075427,
     "lng_origin": 60.395820904522,
-    "OSTNameTranslit": "morozovskiedachi"
+    "OSTNameTranslit": "morozovskiedachi",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": -53.2985082977303,
@@ -1761,7 +2011,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.852349729660006,
     "lng_origin": 60.2782917022697,
-    "OSTNameTranslit": "novyereshety"
+    "OSTNameTranslit": "novyereshety",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 175.512238442974,
@@ -1775,7 +2027,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.5307766450226,
     "lng_origin": 60.935438442974004,
-    "OSTNameTranslit": "parkezhevika"
+    "OSTNameTranslit": "parkezhevika",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": -54.755945526144,
@@ -1789,7 +2043,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.78198777528502,
     "lng_origin": 60.820854473856,
-    "OSTNameTranslit": "zvyozdnyj"
+    "OSTNameTranslit": "zvyozdnyj",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 177.740891397076,
@@ -1803,7 +2059,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.61125340574431,
     "lng_origin": 61.16409139707602,
-    "OSTNameTranslit": "solnechnyjbereg"
+    "OSTNameTranslit": "solnechnyjbereg",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": -56.6738484726133,
@@ -1817,7 +2075,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.58035759043901,
     "lng_origin": 60.902951527386705,
-    "OSTNameTranslit": "bazhovskiemesta"
+    "OSTNameTranslit": "bazhovskiemesta",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 179.397627484128,
@@ -1831,7 +2091,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.865542975301295,
     "lng_origin": 60.82082748412802,
-    "OSTNameTranslit": "evropa"
+    "OSTNameTranslit": "evropa",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": -58.5311819427521,
@@ -1845,7 +2107,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.857103722717,
     "lng_origin": 61.04561805724791,
-    "OSTNameTranslit": "serebryanayarechka"
+    "OSTNameTranslit": "serebryanayarechka",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 180.906960427836,
@@ -1859,7 +2123,9 @@
     "IsAvdVisible": false,
     "lat_origin": 57.092592208301696,
     "lng_origin": 60.330160427836006,
-    "OSTNameTranslit": "uralskayasloboda"
+    "OSTNameTranslit": "uralskayasloboda",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": -60.7638419494831,
@@ -1873,7 +2139,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.515975050446,
     "lng_origin": 60.8129580505169,
-    "OSTNameTranslit": "evropasysert"
+    "OSTNameTranslit": "evropasysert",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 182.630472790526,
@@ -1887,7 +2155,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.92960564498111,
     "lng_origin": 60.05367279052601,
-    "OSTNameTranslit": "molodezhnyj"
+    "OSTNameTranslit": "molodezhnyj",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": -62.5448290222211,
@@ -1901,7 +2171,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.69022643844002,
     "lng_origin": 61.0319709777789,
-    "OSTNameTranslit": "xrizolitovyj"
+    "OSTNameTranslit": "xrizolitovyj",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 184.729247987348,
@@ -1915,7 +2187,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.822932172915,
     "lng_origin": 60.15244798734801,
-    "OSTNameTranslit": "rozhdestvenskij"
+    "OSTNameTranslit": "rozhdestvenskij",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": -65.0461660736094,
@@ -1929,7 +2203,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.705555771284,
     "lng_origin": 60.53063392639061,
-    "OSTNameTranslit": "blagodatnyj"
+    "OSTNameTranslit": "blagodatnyj",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 187.46226352461,
@@ -1943,7 +2219,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.76629505149201,
     "lng_origin": 60.88546352461,
-    "OSTNameTranslit": "polyankaistok"
+    "OSTNameTranslit": "polyankaistok",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": -66.6406589859009,
@@ -1957,7 +2235,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.740542731958016,
     "lng_origin": 60.93614101409911,
-    "OSTNameTranslit": "novyjistok"
+    "OSTNameTranslit": "novyjistok",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 189.787127148437,
@@ -1971,7 +2251,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.75498153890311,
     "lng_origin": 61.21032714843702,
-    "OSTNameTranslit": "shervudpark"
+    "OSTNameTranslit": "shervudpark",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": -68.4819739685246,
@@ -1985,7 +2267,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.75870551508001,
     "lng_origin": 61.09482603147541,
-    "OSTNameTranslit": "ryabina"
+    "OSTNameTranslit": "ryabina",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 191.433746278362,
@@ -1999,7 +2283,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.55289704609281,
     "lng_origin": 60.85694627836202,
-    "OSTNameTranslit": "gorkikashino"
+    "OSTNameTranslit": "gorkikashino",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": -70.7335008011071,
@@ -2013,7 +2299,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.512416108742,
     "lng_origin": 60.84329919889291,
-    "OSTNameTranslit": "krasnogorskij"
+    "OSTNameTranslit": "krasnogorskij",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 193.598884522991,
@@ -2027,7 +2315,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.615607557165305,
     "lng_origin": 61.02208452299101,
-    "OSTNameTranslit": "novofomino"
+    "OSTNameTranslit": "novofomino",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": -71.4228502624526,
@@ -2041,7 +2331,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.368292659892006,
     "lng_origin": 62.15394973754741,
-    "OSTNameTranslit": "novoisetskij"
+    "OSTNameTranslit": "novoisetskij",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 194.860863816069,
@@ -2055,7 +2347,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.7086661345149,
     "lng_origin": 60.28406381606902,
-    "OSTNameTranslit": "zolotyepeski"
+    "OSTNameTranslit": "zolotyepeski",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": -74.6451381073195,
@@ -2069,7 +2363,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.73564462084502,
     "lng_origin": 60.93166189268051,
-    "OSTNameTranslit": "myod"
+    "OSTNameTranslit": "myod",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 197.246420800762,
@@ -2083,7 +2379,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.75031280608651,
     "lng_origin": 60.669620800762004,
-    "OSTNameTranslit": "gorki1"
+    "OSTNameTranslit": "gorki1",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": -76.3924096450984,
@@ -2097,7 +2395,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.67240193352302,
     "lng_origin": 61.18439035490161,
-    "OSTNameTranslit": "aleksandriya"
+    "OSTNameTranslit": "aleksandriya",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 199.52738755949,
@@ -2111,7 +2411,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.62057635277961,
     "lng_origin": 60.95058755949,
-    "OSTNameTranslit": "svetlyj"
+    "OSTNameTranslit": "svetlyj",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": -78.5988109932161,
@@ -2125,7 +2427,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.709341874757,
     "lng_origin": 60.9779890067839,
-    "OSTNameTranslit": "povarnya"
+    "OSTNameTranslit": "povarnya",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 201.554046693113,
@@ -2139,7 +2443,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.70287835102451,
     "lng_origin": 60.97724669311302,
-    "OSTNameTranslit": "krylya"
+    "OSTNameTranslit": "krylya",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": -80.8343947754134,
@@ -2153,7 +2459,9 @@
     "IsAvdVisible": false,
     "lat_origin": 57.270643607355,
     "lng_origin": 60.742405224586605,
-    "OSTNameTranslit": "severnayasloboda"
+    "OSTNameTranslit": "severnayasloboda",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 202.973344933317,
@@ -2167,7 +2475,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.62688712112731,
     "lng_origin": 60.39654493331702,
-    "OSTNameTranslit": "svetlyachok"
+    "OSTNameTranslit": "svetlyachok",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": -83.2622877471958,
@@ -2181,7 +2491,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.577962706251014,
     "lng_origin": 60.31451225280421,
-    "OSTNameTranslit": "zolotojbereg"
+    "OSTNameTranslit": "zolotojbereg",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 205.222618710326,
@@ -2195,7 +2507,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.7240065263977,
     "lng_origin": 60.64581871032601,
-    "OSTNameTranslit": "serebryanyjbor"
+    "OSTNameTranslit": "serebryanyjbor",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": -84.4919303283871,
@@ -2209,7 +2523,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.72224485795101,
     "lng_origin": 61.08486967161291,
-    "OSTNameTranslit": "izumrudnayapolyana"
+    "OSTNameTranslit": "izumrudnayapolyana",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 207.525086056517,
@@ -2223,7 +2539,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.7327615958427,
     "lng_origin": 60.94828605651702,
-    "OSTNameTranslit": "peresvet"
+    "OSTNameTranslit": "peresvet",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": -87.0103047714412,
@@ -2237,7 +2555,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.693376620365,
     "lng_origin": 60.56649522855881,
-    "OSTNameTranslit": "romanovskijkvartal"
+    "OSTNameTranslit": "romanovskijkvartal",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 208.725600183087,
@@ -2251,7 +2571,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.8224144674587,
     "lng_origin": 60.14880018308702,
-    "OSTNameTranslit": "volchixa"
+    "OSTNameTranslit": "volchixa",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": -88.8957637176707,
@@ -2265,7 +2587,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.94535544932202,
     "lng_origin": 60.6810362823293,
-    "OSTNameTranslit": "vesyolayagorka"
+    "OSTNameTranslit": "vesyolayagorka",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 211.059883724975,
@@ -2279,7 +2603,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.68687595161521,
     "lng_origin": 60.48308372497502,
-    "OSTNameTranslit": "aerodrom"
+    "OSTNameTranslit": "aerodrom",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": -90.7165492401313,
@@ -2293,7 +2619,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.58949876428102,
     "lng_origin": 60.860250759868705,
-    "OSTNameTranslit": "olxovka"
+    "OSTNameTranslit": "olxovka",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 213.60545057066,
@@ -2307,7 +2635,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.7198144575148,
     "lng_origin": 61.028650570660005,
-    "OSTNameTranslit": "novayarassoxa2"
+    "OSTNameTranslit": "novayarassoxa2",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": -93.0542929992858,
@@ -2321,7 +2651,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.70289166884501,
     "lng_origin": 60.5225070007142,
-    "OSTNameTranslit": "zolotojlug"
+    "OSTNameTranslit": "zolotojlug",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 215.55605500944,
@@ -2335,7 +2667,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.75472157017241,
     "lng_origin": 60.97925500944001,
-    "OSTNameTranslit": "skandinaviya"
+    "OSTNameTranslit": "skandinaviya",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": -94.5378767364517,
@@ -2349,7 +2683,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.72055220381702,
     "lng_origin": 61.03892326354831,
-    "OSTNameTranslit": "rassoxa"
+    "OSTNameTranslit": "rassoxa",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 216.923697412091,
@@ -2363,7 +2699,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.55422433171701,
     "lng_origin": 60.34689741209101,
-    "OSTNameTranslit": "gorodoksolncza2"
+    "OSTNameTranslit": "gorodoksolncza2",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": -97.1677881591813,
@@ -2377,7 +2715,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.65853708873601,
     "lng_origin": 60.40901184081871,
-    "OSTNameTranslit": "romanovo"
+    "OSTNameTranslit": "romanovo",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 219.644589364604,
@@ -2391,7 +2731,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.75670180874201,
     "lng_origin": 61.06778936460401,
-    "OSTNameTranslit": "verxneedubrovo"
+    "OSTNameTranslit": "verxneedubrovo",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": -98.6430137977798,
@@ -2405,7 +2747,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.668940454471,
     "lng_origin": 60.933786202220205,
-    "OSTNameTranslit": "rastorguev"
+    "OSTNameTranslit": "rastorguev",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 221.282914768981,
@@ -2419,7 +2763,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.66052432602301,
     "lng_origin": 60.706114768980996,
-    "OSTNameTranslit": "9yardov"
+    "OSTNameTranslit": "9yardov",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": -100.709538113404,
@@ -2433,7 +2779,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.778336703342006,
     "lng_origin": 60.86726188659601,
-    "OSTNameTranslit": "yuzhnyj"
+    "OSTNameTranslit": "yuzhnyj",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 223.149904191568,
@@ -2447,7 +2795,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.677233290676,
     "lng_origin": 60.57310419156801,
-    "OSTNameTranslit": "aist"
+    "OSTNameTranslit": "aist",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": -102.423523269676,
@@ -2461,7 +2811,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.678284530683015,
     "lng_origin": 61.15327673032401,
-    "OSTNameTranslit": "meshkovlog"
+    "OSTNameTranslit": "meshkovlog",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 225.780330598432,
@@ -2475,7 +2827,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.64545777334301,
     "lng_origin": 61.203530598431996,
-    "OSTNameTranslit": "divnopole"
+    "OSTNameTranslit": "divnopole",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": -104.841223847203,
@@ -2489,7 +2843,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.865699662286005,
     "lng_origin": 60.73557615279701,
-    "OSTNameTranslit": "turgenevpark"
+    "OSTNameTranslit": "turgenevpark",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 227.355211198407,
@@ -2503,7 +2859,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.509948380641006,
     "lng_origin": 60.778411198407014,
-    "OSTNameTranslit": "orlyonok"
+    "OSTNameTranslit": "orlyonok",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": -107.341010414141,
@@ -2517,7 +2875,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.64796392302202,
     "lng_origin": 60.23578958585901,
-    "OSTNameTranslit": "kungurka"
+    "OSTNameTranslit": "kungurka",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 229.207882821637,
@@ -2531,7 +2891,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.721525192932006,
     "lng_origin": 60.63108282163702,
-    "OSTNameTranslit": "rudnyjzhsk"
+    "OSTNameTranslit": "rudnyjzhsk",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": -109.162252079773,
@@ -2545,7 +2907,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.819507844827,
     "lng_origin": 60.41454792022701,
-    "OSTNameTranslit": "karaseozerskij"
+    "OSTNameTranslit": "karaseozerskij",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 230.920451771543,
@@ -2559,7 +2923,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.62011232066901,
     "lng_origin": 60.343651771542994,
-    "OSTNameTranslit": "yuzhnayadolina"
+    "OSTNameTranslit": "yuzhnayadolina",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": -110.616599403401,
@@ -2573,7 +2939,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.660255819195015,
     "lng_origin": 60.96020059659901,
-    "OSTNameTranslit": "bobrovskij2"
+    "OSTNameTranslit": "bobrovskij2",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 233.554080903608,
@@ -2587,7 +2955,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.783778119101,
     "lng_origin": 60.977280903608005,
-    "OSTNameTranslit": "rastushhij"
+    "OSTNameTranslit": "rastushhij",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": -112.91286028557,
@@ -2601,7 +2971,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.76123142115401,
     "lng_origin": 60.66393971443,
-    "OSTNameTranslit": "marshal"
+    "OSTNameTranslit": "marshal",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 235.354454647826,
@@ -2615,7 +2987,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.45727222705,
     "lng_origin": 60.77765464782601,
-    "OSTNameTranslit": "serebryanoekopytcze"
+    "OSTNameTranslit": "serebryanoekopytcze",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": -115.137447010804,
@@ -2629,7 +3003,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.958875240206,
     "lng_origin": 60.43935298919601,
-    "OSTNameTranslit": "kirpichnyj"
+    "OSTNameTranslit": "kirpichnyj",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 237.623791348265,
@@ -2643,7 +3019,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.72531903955499,
     "lng_origin": 61.04699134826501,
-    "OSTNameTranslit": "zemlyanichnayapolyana"
+    "OSTNameTranslit": "zemlyanichnayapolyana",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": -118.772478710938,
@@ -2657,7 +3035,9 @@
     "IsAvdVisible": false,
     "lat_origin": 57.31243245385102,
     "lng_origin": 58.80432128906199,
-    "OSTNameTranslit": "prigore"
+    "OSTNameTranslit": "prigore",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 239.541635453777,
@@ -2671,7 +3051,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.581186544666,
     "lng_origin": 60.964835453777,
-    "OSTNameTranslit": "zhuravli"
+    "OSTNameTranslit": "zhuravli",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": -118.747834526081,
@@ -2685,7 +3067,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.86423128676901,
     "lng_origin": 60.828965473919,
-    "OSTNameTranslit": "aziya"
+    "OSTNameTranslit": "aziya",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 241.472214352416,
@@ -2699,7 +3083,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.714356922641,
     "lng_origin": 60.895414352416,
-    "OSTNameTranslit": "zelenyeprostory"
+    "OSTNameTranslit": "zelenyeprostory",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": -121.032583367157,
@@ -2713,7 +3099,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.77543161554601,
     "lng_origin": 60.54421663284299,
-    "OSTNameTranslit": "polyankayuz"
+    "OSTNameTranslit": "polyankayuz",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 243.151507984923,
@@ -2727,7 +3115,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.673747197080985,
     "lng_origin": 60.57470798492301,
-    "OSTNameTranslit": "lugovoeshabrovskij"
+    "OSTNameTranslit": "lugovoeshabrovskij",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": -123.08551944428,
@@ -2741,7 +3131,9 @@
     "IsAvdVisible": false,
     "lat_origin": 57.02229814509002,
     "lng_origin": 60.49128055572001,
-    "OSTNameTranslit": "cheremushki"
+    "OSTNameTranslit": "cheremushki",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 245.479145180508,
@@ -2755,7 +3147,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.94525713858499,
     "lng_origin": 60.90234518050801,
-    "OSTNameTranslit": "ruchi"
+    "OSTNameTranslit": "ruchi",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": -125.027170501727,
@@ -2769,7 +3163,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.686905952215994,
     "lng_origin": 60.54962949827299,
-    "OSTNameTranslit": "krasnayapolyana"
+    "OSTNameTranslit": "krasnayapolyana",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 247.602333676141,
@@ -2783,7 +3179,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.71568228349699,
     "lng_origin": 61.02553367614098,
-    "OSTNameTranslit": "rassoxayug2"
+    "OSTNameTranslit": "rassoxayug2",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": -126.664020858783,
@@ -2797,7 +3195,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.76042625912501,
     "lng_origin": 60.91277914121699,
-    "OSTNameTranslit": "prossvet"
+    "OSTNameTranslit": "prossvet",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 249.322767198163,
@@ -2811,7 +3211,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.802383179748006,
     "lng_origin": 60.74596719816299,
-    "OSTNameTranslit": "chistyeruchi"
+    "OSTNameTranslit": "chistyeruchi",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": -128.886064849873,
@@ -2825,7 +3227,9 @@
     "IsAvdVisible": false,
     "lat_origin": 57.19083676069499,
     "lng_origin": 60.69073515012698,
-    "OSTNameTranslit": "lebedevo"
+    "OSTNameTranslit": "lebedevo",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 251.067705046461,
@@ -2839,7 +3243,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.708904208627985,
     "lng_origin": 60.490905046460966,
-    "OSTNameTranslit": "zelenyjgorod"
+    "OSTNameTranslit": "zelenyjgorod",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": -130.594798408528,
@@ -2853,7 +3259,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.709052731513,
     "lng_origin": 60.982001591472,
-    "OSTNameTranslit": "grafskijlug"
+    "OSTNameTranslit": "grafskijlug",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 252.997559916304,
@@ -2867,7 +3275,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.965399624490004,
     "lng_origin": 60.42075991630401,
-    "OSTNameTranslit": "liverpul"
+    "OSTNameTranslit": "liverpul",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": -133.593996368426,
@@ -2881,7 +3291,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.972154406719994,
     "lng_origin": 59.982803631574,
-    "OSTNameTranslit": "malinovka"
+    "OSTNameTranslit": "malinovka",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 255.526915490704,
@@ -2895,7 +3307,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.87534788646499,
     "lng_origin": 60.95011549070398,
-    "OSTNameTranslit": "stanicza"
+    "OSTNameTranslit": "stanicza",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": -133.899296414185,
@@ -2909,7 +3323,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.377982434729006,
     "lng_origin": 61.677503585815,
-    "OSTNameTranslit": "bolshojsungul"
+    "OSTNameTranslit": "bolshojsungul",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 257.40410770111,
@@ -2923,7 +3339,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.78406845090399,
     "lng_origin": 60.82730770110999,
-    "OSTNameTranslit": "maloistokskieprudy"
+    "OSTNameTranslit": "maloistokskieprudy",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": -136.752083145161,
@@ -2937,7 +3355,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.789619692588985,
     "lng_origin": 60.82471685483898,
-    "OSTNameTranslit": "artnuvoevro"
+    "OSTNameTranslit": "artnuvoevro",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 258.961993824767,
@@ -2951,7 +3371,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.651900318565,
     "lng_origin": 60.385193824766986,
-    "OSTNameTranslit": "zubrovo"
+    "OSTNameTranslit": "zubrovo",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": -138.733500801108,
@@ -2965,7 +3387,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.585212634106995,
     "lng_origin": 60.843299198892,
-    "OSTNameTranslit": "kleverkashino"
+    "OSTNameTranslit": "kleverkashino",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 261.638066232281,
@@ -2979,7 +3403,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.63890789429999,
     "lng_origin": 61.061266232281014,
-    "OSTNameTranslit": "klyuchi"
+    "OSTNameTranslit": "klyuchi",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": -141.065649639893,
@@ -2993,7 +3419,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.70817963223203,
     "lng_origin": 60.511150360106996,
-    "OSTNameTranslit": "zolotojkarp"
+    "OSTNameTranslit": "zolotojkarp",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 263.309865605162,
@@ -3007,7 +3435,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.43269084711099,
     "lng_origin": 60.73306560516198,
-    "OSTNameTranslit": "finskijzaliv"
+    "OSTNameTranslit": "finskijzaliv",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": -142.551754318256,
@@ -3021,7 +3451,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.711082591882985,
     "lng_origin": 61.02504568174399,
-    "OSTNameTranslit": "bolshayarassoxa"
+    "OSTNameTranslit": "bolshayarassoxa",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 265.063901841718,
@@ -3035,7 +3467,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.69984617168299,
     "lng_origin": 60.487101841718015,
-    "OSTNameTranslit": "ekodole"
+    "OSTNameTranslit": "ekodole",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": -144.914174400349,
@@ -3049,7 +3483,9 @@
     "IsAvdVisible": false,
     "lat_origin": 57.09359674202199,
     "lng_origin": 60.662625599650994,
-    "OSTNameTranslit": "baltymskiedachi"
+    "OSTNameTranslit": "baltymskiedachi",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 267.096018444824,
@@ -3063,7 +3499,9 @@
     "IsAvdVisible": false,
     "lat_origin": 57.12953184719598,
     "lng_origin": 60.51921844482399,
-    "OSTNameTranslit": "raduga"
+    "OSTNameTranslit": "raduga",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": -146.552140556356,
@@ -3077,7 +3515,9 @@
     "IsAvdVisible": false,
     "lat_origin": 56.70123910307302,
     "lng_origin": 61.024659443644,
-    "OSTNameTranslit": "darvin"
+    "OSTNameTranslit": "darvin",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   },
   {
     "lng": 269.732694566327,
@@ -3091,6 +3531,8 @@
     "IsAvdVisible": false,
     "lat_origin": 56.71297073568999,
     "lng_origin": 61.15589456632699,
-    "OSTNameTranslit": "gusevo"
+    "OSTNameTranslit": "gusevo",
+    "ya_verif": "61632a58f67c9618",
+    "go_verif": "lvEgp_xk_t3lj8q_DHtx5IOQg9LYZHZ_Q_NzDkrX0D4"
   }
 ]
