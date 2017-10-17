@@ -11,7 +11,7 @@
     "IsAvdVisible": true,
     "lat_origin": 56.581636540839305,
     "lng_origin": 60.972688961773,
-    "OSTNameTranslit": "Brusnika"
+    "OSTNameTranslit": "brusnika"
   },
   {
     "lng": 70.8985589630115,
@@ -25,7 +25,7 @@
     "IsAvdVisible": true,
     "lat_origin": 56.8151093259631,
     "lng_origin": 60.475358963011494,
-    "OSTNameTranslit": "Obrazczovo"
+    "OSTNameTranslit": "obrazczovo"
   },
   {
     "lng": 51.7354570739708,
@@ -39,7 +39,7 @@
     "IsAvdVisible": true,
     "lat_origin": 56.7017614135787,
     "lng_origin": 61.1586570739708,
-    "OSTNameTranslit": "Lisi_gorki"
+    "OSTNameTranslit": "lisigorki"
   },
   {
     "lng": 68.8461593276963,
@@ -53,7 +53,7 @@
     "IsAvdVisible": true,
     "lat_origin": 56.6642092022799,
     "lng_origin": 60.4229593276963,
-    "OSTNameTranslit": "Dobryj_gorod"
+    "OSTNameTranslit": "dobryjgorod"
   },
   {
     "lng": 53.4843164794922,
@@ -67,7 +67,7 @@
     "IsAvdVisible": true,
     "lat_origin": 56.2872025888621,
     "lng_origin": 60.9075164794922,
-    "OSTNameTranslit": "Lukomore"
+    "OSTNameTranslit": "lukomore"
   },
   {
     "lng": 67.7136770858581,
@@ -81,7 +81,7 @@
     "IsAvdVisible": true,
     "lat_origin": 56.657419585384204,
     "lng_origin": 61.29047708585809,
-    "OSTNameTranslit": "Rajnvald"
+    "OSTNameTranslit": "rajnvald"
   },
   {
     "lng": 54.9768854492181,
@@ -95,7 +95,7 @@
     "IsAvdVisible": true,
     "lat_origin": 56.6480460877944,
     "lng_origin": 60.400085449218096,
-    "OSTNameTranslit": "Evraziya_Kurganovo"
+    "OSTNameTranslit": "evraziya2"
   },
   {
     "lng": 65.3464075698674,
@@ -109,7 +109,7 @@
     "IsAvdVisible": true,
     "lat_origin": 56.5567128665219,
     "lng_origin": 60.923207569867394,
-    "OSTNameTranslit": "Zapovednik"
+    "OSTNameTranslit": "zapovednik"
   },
   {
     "lng": 57.0480660796925,
@@ -123,7 +123,7 @@
     "IsAvdVisible": true,
     "lat_origin": 56.7890897485758,
     "lng_origin": 60.4712660796925,
-    "OSTNameTranslit": "Michurinskij"
+    "OSTNameTranslit": "michurinskij"
   },
   {
     "lng": 62.8236287719727,
@@ -137,7 +137,7 @@
     "IsAvdVisible": true,
     "lat_origin": 56.65461647002999,
     "lng_origin": 60.4004287719727,
-    "OSTNameTranslit": "Dobrovo-Sever"
+    "OSTNameTranslit": "dobrovosever"
   },
   {
     "lng": 59.5715903640568,
@@ -151,7 +151,7 @@
     "IsAvdVisible": true,
     "lat_origin": 56.8884814090961,
     "lng_origin": 60.9947903640568,
-    "OSTNameTranslit": "Xoroshie_sosedi"
+    "OSTNameTranslit": "xoroshiesosedi"
   },
   {
     "lng": 61.1513144149595,
@@ -165,7 +165,7 @@
     "IsAvdVisible": true,
     "lat_origin": 56.8853570373995,
     "lng_origin": 60.7281144149595,
-    "OSTNameTranslit": "SHartashskij_ZHSK"
+    "OSTNameTranslit": "shartashskijzhsk"
   },
   {
     "lng": 61.5380464904767,
@@ -179,7 +179,7 @@
     "IsAvdVisible": true,
     "lat_origin": 56.7291850180969,
     "lng_origin": 60.9612464904767,
-    "OSTNameTranslit": "Bobry"
+    "OSTNameTranslit": "bobry"
   },
   {
     "lng": 59.2926505691514,
@@ -193,7 +193,7 @@
     "IsAvdVisible": true,
     "lat_origin": 56.55617891362439,
     "lng_origin": 60.8694505691514,
-    "OSTNameTranslit": "Nikolin_klyuch"
+    "OSTNameTranslit": "nikolinklyuch"
   },
   {
     "lng": 63.1122833602876,
@@ -207,7 +207,7 @@
     "IsAvdVisible": true,
     "lat_origin": 56.7791550869793,
     "lng_origin": 60.5354833602876,
-    "OSTNameTranslit": "Akademicheskij_ZHSPK"
+    "OSTNameTranslit": "akademicheskijzhspk"
   },
   {
     "lng": 57.3864905013848,
@@ -221,7 +221,7 @@
     "IsAvdVisible": true,
     "lat_origin": 56.774448550346094,
     "lng_origin": 60.9632905013848,
-    "OSTNameTranslit": "Alye_parusa"
+    "OSTNameTranslit": "alyeparusa"
   },
   {
     "lng": 65.007339418011,
@@ -235,7 +235,7 @@
     "IsAvdVisible": true,
     "lat_origin": 56.9688026649895,
     "lng_origin": 60.430539418010994,
-    "OSTNameTranslit": "NyuKoptyaki"
+    "OSTNameTranslit": "nyukoptyaki"
   },
   {
     "lng": 55.2664133682068,
@@ -249,7 +249,7 @@
     "IsAvdVisible": true,
     "lat_origin": 56.5697216702041,
     "lng_origin": 60.8432133682068,
-    "OSTNameTranslit": "Pine_Creek Golf Resort"
+    "OSTNameTranslit": "pinecreek"
   },
   {
     "lng": 66.9097070098697,
@@ -263,7 +263,7 @@
     "IsAvdVisible": true,
     "lat_origin": 56.5868229513784,
     "lng_origin": 60.3329070098697,
-    "OSTNameTranslit": "Raskuixa"
+    "OSTNameTranslit": "raskuixa"
   },
   {
     "lng": 53.2611776962083,
@@ -277,7 +277,7 @@
     "IsAvdVisible": true,
     "lat_origin": 56.63261704370339,
     "lng_origin": 60.8379776962083,
-    "OSTNameTranslit": "Borodulinskij"
+    "OSTNameTranslit": "borodulinskij"
   },
   {
     "lng": 68.7181059234614,
@@ -291,7 +291,7 @@
     "IsAvdVisible": true,
     "lat_origin": 56.855873914666596,
     "lng_origin": 60.14130592346139,
-    "OSTNameTranslit": "Alekseevka"
+    "OSTNameTranslit": "alekseevka"
   },
   {
     "lng": 51.035458911131,
@@ -305,7 +305,7 @@
     "IsAvdVisible": true,
     "lat_origin": 56.99802071381089,
     "lng_origin": 60.612258911131,
-    "OSTNameTranslit": "Perspektiva"
+    "OSTNameTranslit": "perspektiva"
   },
   {
     "lng": 71.1367720962346,
@@ -319,7 +319,7 @@
     "IsAvdVisible": true,
     "lat_origin": 56.6976976489931,
     "lng_origin": 60.55997209623459,
-    "OSTNameTranslit": "Romashkino"
+    "OSTNameTranslit": "romashkino"
   },
   {
     "lng": 48.9066218509481,
@@ -333,7 +333,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.81025809952979,
     "lng_origin": 60.4834218509481,
-    "OSTNameTranslit": "Na_Maloprudnoj"
+    "OSTNameTranslit": "namaloprudnoj"
   },
   {
     "lng": 72.397748410777,
@@ -347,7 +347,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.9864076436524,
     "lng_origin": 59.82094841077699,
-    "OSTNameTranslit": "Rodnichok"
+    "OSTNameTranslit": "rodnichok"
   },
   {
     "lng": 46.899959243755,
@@ -361,7 +361,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.80687997352149,
     "lng_origin": 60.476759243755,
-    "OSTNameTranslit": "ForrestXaus"
+    "OSTNameTranslit": "forrestxaus"
   },
   {
     "lng": 75.4762483947733,
@@ -375,7 +375,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.9446246082963,
     "lng_origin": 60.89944839477329,
-    "OSTNameTranslit": "Lesnaya_usadba"
+    "OSTNameTranslit": "lesnayausadba"
   },
   {
     "lng": 44.873753894043,
@@ -389,7 +389,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.957518718822996,
     "lng_origin": 60.450553894043,
-    "OSTNameTranslit": "Zolotaya_gorka"
+    "OSTNameTranslit": "zolotayagorka"
   },
   {
     "lng": 77.219657551574,
@@ -403,7 +403,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.7253033754811,
     "lng_origin": 60.642857551574,
-    "OSTNameTranslit": "Troiczkij"
+    "OSTNameTranslit": "troiczkij"
   },
   {
     "lng": 42.9525893814087,
@@ -417,7 +417,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.7836971096919,
     "lng_origin": 60.5293893814087,
-    "OSTNameTranslit": "Evropejskij"
+    "OSTNameTranslit": "evropejskij"
   },
   {
     "lng": 79.3754402511556,
@@ -431,7 +431,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.80442197409,
     "lng_origin": 60.79864025115559,
-    "OSTNameTranslit": "Novoe_sozvezdie"
+    "OSTNameTranslit": "novoesozvezdie"
   },
   {
     "lng": 41.2846523895077,
@@ -445,7 +445,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.60079191652619,
     "lng_origin": 60.8614523895077,
-    "OSTNameTranslit": "Olxovskij"
+    "OSTNameTranslit": "olxovskij"
   },
   {
     "lng": 81.4926690459994,
@@ -459,7 +459,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.5447664021247,
     "lng_origin": 60.9158690459994,
-    "OSTNameTranslit": "Park_Filino(Zapovednik)"
+    "OSTNameTranslit": "parkfilino"
   },
   {
     "lng": 39.6168600692542,
@@ -473,7 +473,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.71374956557719,
     "lng_origin": 61.1936600692542,
-    "OSTNameTranslit": "Zodiak"
+    "OSTNameTranslit": "zodiak"
   },
   {
     "lng": 83.0737723708928,
@@ -487,7 +487,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.6599722062167,
     "lng_origin": 60.49697237089279,
-    "OSTNameTranslit": "Ulese"
+    "OSTNameTranslit": "ulese"
   },
   {
     "lng": 37.3645766860948,
@@ -501,7 +501,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.61162394936379,
     "lng_origin": 60.9413766860948,
-    "OSTNameTranslit": "Gazovik"
+    "OSTNameTranslit": "gazovik"
   },
   {
     "lng": 85.0348266959959,
@@ -515,7 +515,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.992106234154896,
     "lng_origin": 60.4580266959959,
-    "OSTNameTranslit": "Viktoriya"
+    "OSTNameTranslit": "viktoriya"
   },
   {
     "lng": 34.8047300948906,
@@ -529,7 +529,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.64195834075109,
     "lng_origin": 60.3815300948906,
-    "OSTNameTranslit": "Belye_rosy Kurganovo"
+    "OSTNameTranslit": "belyerosy"
   },
   {
     "lng": 87.0535163284123,
@@ -543,7 +543,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.8087162062676,
     "lng_origin": 60.476716328412294,
-    "OSTNameTranslit": "Na_Listvennoj"
+    "OSTNameTranslit": "nalistvennoj"
   },
   {
     "lng": 33.4123255386173,
@@ -557,7 +557,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.730313600104594,
     "lng_origin": 60.9891255386173,
-    "OSTNameTranslit": "Novokosulino-2"
+    "OSTNameTranslit": "novokosulino2"
   },
   {
     "lng": 89.1640821807861,
@@ -571,7 +571,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.8018417308154,
     "lng_origin": 60.58728218078609,
-    "OSTNameTranslit": "Amundsena-Volgogradskaya"
+    "OSTNameTranslit": "amundsenavolgogradskaya"
   },
   {
     "lng": 31.3567930831725,
@@ -585,7 +585,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.53800928617099,
     "lng_origin": 60.933593083172504,
-    "OSTNameTranslit": "Park_Sobol(Zapovednik)"
+    "OSTNameTranslit": "parksobol"
   },
   {
     "lng": 91.4604396224797,
@@ -599,7 +599,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.618636235218,
     "lng_origin": 60.88363962247969,
-    "OSTNameTranslit": "SHato-2"
+    "OSTNameTranslit": "shato2"
   },
   {
     "lng": 29.2342697753715,
@@ -613,7 +613,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.4491652824715,
     "lng_origin": 60.8110697753715,
-    "OSTNameTranslit": "CHistye_prudy"
+    "OSTNameTranslit": "chistyeprudy"
   },
   {
     "lng": 93.1161028259265,
@@ -627,7 +627,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.767011899658904,
     "lng_origin": 60.5393028259265,
-    "OSTNameTranslit": "Na_Razlivnoj"
+    "OSTNameTranslit": "narazlivnoj"
   },
   {
     "lng": 27.3967987645529,
@@ -641,7 +641,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.76393400150209,
     "lng_origin": 60.973598764552904,
-    "OSTNameTranslit": "Lesnye_dachi"
+    "OSTNameTranslit": "lesnyedachi"
   },
   {
     "lng": 95.5049587600699,
@@ -655,7 +655,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.7314618571931,
     "lng_origin": 60.92815876006989,
-    "OSTNameTranslit": "CHistye_rosy"
+    "OSTNameTranslit": "chistyerosy"
   },
   {
     "lng": 24.3467375411809,
@@ -669,7 +669,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.77984396401939,
     "lng_origin": 59.9235375411809,
-    "OSTNameTranslit": "Sosny"
+    "OSTNameTranslit": "sosny"
   },
   {
     "lng": 97.7429942489427,
@@ -683,7 +683,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.7380268235443,
     "lng_origin": 61.16619424894269,
-    "OSTNameTranslit": "Brusyanka_Village"
+    "OSTNameTranslit": "brusyankavillage"
   },
   {
     "lng": 23.3587242736633,
@@ -697,7 +697,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.5281678114156,
     "lng_origin": 60.9355242736633,
-    "OSTNameTranslit": "Park_Sovyata(Zapovednik)"
+    "OSTNameTranslit": "parksovyata"
   },
   {
     "lng": 99.1095796936014,
@@ -711,7 +711,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.6664367512197,
     "lng_origin": 60.5327796936014,
-    "OSTNameTranslit": "Lesnye_tropy"
+    "OSTNameTranslit": "lesnyetropy"
   },
   {
     "lng": 20.9141213073442,
@@ -725,7 +725,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.80082918269959,
     "lng_origin": 60.4909213073442,
-    "OSTNameTranslit": "Svetlorechenskij"
+    "OSTNameTranslit": "svetlorechenskij"
   },
   {
     "lng": 101.546887051392,
@@ -739,7 +739,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.7588868298348,
     "lng_origin": 60.970087051392,
-    "OSTNameTranslit": "Snegiri"
+    "OSTNameTranslit": "snegiri"
   },
   {
     "lng": 19.430566,
@@ -753,7 +753,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.729186999999996,
     "lng_origin": 61.007366,
-    "OSTNameTranslit": "Melnicza"
+    "OSTNameTranslit": "melnicza"
   },
   {
     "lng": 103.019457470703,
@@ -767,7 +767,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.669056671207,
     "lng_origin": 60.442657470703,
-    "OSTNameTranslit": "Udachnyj"
+    "OSTNameTranslit": "udachnyj"
   },
   {
     "lng": 17.6925786621084,
@@ -781,7 +781,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.627383384813,
     "lng_origin": 61.2693786621084,
-    "OSTNameTranslit": "Zalese_Bolshebrusyanskoe"
+    "OSTNameTranslit": "zalesebolshebrusyanskoe"
   },
   {
     "lng": 105.221916139203,
@@ -795,7 +795,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.9610432767712,
     "lng_origin": 60.645116139203,
-    "OSTNameTranslit": "Demidovskij"
+    "OSTNameTranslit": "demidovskij"
   },
   {
     "lng": 15.4117835647567,
@@ -809,7 +809,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.76139118942699,
     "lng_origin": 60.9885835647567,
-    "OSTNameTranslit": "Nadezhdinsk"
+    "OSTNameTranslit": "nadezhdinsk"
   },
   {
     "lng": 107.123725831585,
@@ -823,7 +823,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.7108465671266,
     "lng_origin": 60.546925831585,
-    "OSTNameTranslit": "Peskar"
+    "OSTNameTranslit": "peskar"
   },
   {
     "lng": 12.9703833236508,
@@ -837,7 +837,7 @@
     "IsAvdVisible": false,
     "lat_origin": 57.16442909931199,
     "lng_origin": 60.5471833236508,
-    "OSTNameTranslit": "Tixie_dachi"
+    "OSTNameTranslit": "tixiedachi"
   },
   {
     "lng": 108.955154359416,
@@ -851,7 +851,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.60795787640699,
     "lng_origin": 60.378354359415994,
-    "OSTNameTranslit": "Sakura_park"
+    "OSTNameTranslit": "sakurapark"
   },
   {
     "lng": 11.6013676299842,
@@ -865,7 +865,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.71013848386899,
     "lng_origin": 61.1781676299842,
-    "OSTNameTranslit": "Vasilkovye_luga"
+    "OSTNameTranslit": "vasilkovyeluga"
   },
   {
     "lng": 111.422861706543,
@@ -879,7 +879,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.77294563993498,
     "lng_origin": 60.846061706543,
-    "OSTNameTranslit": "Usadba"
+    "OSTNameTranslit": "usadba"
   },
   {
     "lng": 9.40708986661669,
@@ -893,7 +893,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.69583234618,
     "lng_origin": 60.98388986661669,
-    "OSTNameTranslit": "Svoj_dom DPK"
+    "OSTNameTranslit": "svojdomdpk"
   },
   {
     "lng": 113.472986828612,
@@ -907,7 +907,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.61303225446671,
     "lng_origin": 60.89618682861199,
-    "OSTNameTranslit": "SHato"
+    "OSTNameTranslit": "shato"
   },
   {
     "lng": 6.63420044250275,
@@ -921,7 +921,7 @@
     "IsAvdVisible": false,
     "lat_origin": 57.158925961861996,
     "lng_origin": 60.21100044250275,
-    "OSTNameTranslit": "SHeles_park"
+    "OSTNameTranslit": "shelespark"
   },
   {
     "lng": 115.063386857585,
@@ -935,7 +935,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.97393562786702,
     "lng_origin": 60.486586857584996,
-    "OSTNameTranslit": "Lesnoj_ZHK"
+    "OSTNameTranslit": "lesnojzhk"
   },
   {
     "lng": 5.35172907255154,
@@ -949,7 +949,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.54614138702499,
     "lng_origin": 60.92852907255154,
-    "OSTNameTranslit": "Park_Sokol(Zapovednik)"
+    "OSTNameTranslit": "parksokol"
   },
   {
     "lng": 116.984953533934,
@@ -963,7 +963,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.652582014850914,
     "lng_origin": 60.40815353393401,
-    "OSTNameTranslit": "Lugovoe_Kurganovo"
+    "OSTNameTranslit": "lugovoe"
   },
   {
     "lng": 3.56763616941404,
@@ -977,7 +977,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.675142535538,
     "lng_origin": 61.14443616941404,
-    "OSTNameTranslit": "Spiridonovo"
+    "OSTNameTranslit": "spiridonovo"
   },
   {
     "lng": 119.293343197628,
@@ -991,7 +991,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.65081382124206,
     "lng_origin": 60.716543197628,
-    "OSTNameTranslit": "Grinvill"
+    "OSTNameTranslit": "grinvill"
   },
   {
     "lng": 1.39766441650352,
@@ -1005,7 +1005,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.669476440306,
     "lng_origin": 60.97446441650352,
-    "OSTNameTranslit": "Bobrovskie_luga"
+    "OSTNameTranslit": "bobrovskieluga"
   },
   {
     "lng": 121.613749157713,
@@ -1019,7 +1019,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.72199308685753,
     "lng_origin": 61.036949157712996,
-    "OSTNameTranslit": "Novaya_Rassoxa"
+    "OSTNameTranslit": "novayarassoxa"
   },
   {
     "lng": -0.427771888751892,
@@ -1033,7 +1033,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.73326226757399,
     "lng_origin": 61.14902811124811,
-    "OSTNameTranslit": "Marczipan"
+    "OSTNameTranslit": "marczipan"
   },
   {
     "lng": 123.05986779936,
@@ -1047,7 +1047,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.80313660753439,
     "lng_origin": 60.483067799360015,
-    "OSTNameTranslit": "Smorodinovaya"
+    "OSTNameTranslit": "smorodinovaya"
   },
   {
     "lng": -2.99698508911172,
@@ -1061,7 +1061,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.66622302080799,
     "lng_origin": 60.57981491088828,
-    "OSTNameTranslit": "SHabrovskij,_UPTK"
+    "OSTNameTranslit": "shabrovskij2"
   },
   {
     "lng": 124.116175305176,
@@ -1075,7 +1075,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.765260088431816,
     "lng_origin": 59.53937530517601,
-    "OSTNameTranslit": "Rodnoj"
+    "OSTNameTranslit": "rodnoj"
   },
   {
     "lng": -4.77331031494363,
@@ -1089,7 +1089,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.786979263056,
     "lng_origin": 60.80348968505637,
-    "OSTNameTranslit": "Malyj_Istok"
+    "OSTNameTranslit": "malyjistok"
   },
   {
     "lng": 127.544897019939,
@@ -1103,7 +1103,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.59089579495302,
     "lng_origin": 60.968097019938995,
-    "OSTNameTranslit": "Marin_klyuch"
+    "OSTNameTranslit": "marinklyuch"
   },
   {
     "lng": -7.30338438608439,
@@ -1117,7 +1117,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.716475347906,
     "lng_origin": 60.27341561391561,
-    "OSTNameTranslit": "Verxnemakarovo"
+    "OSTNameTranslit": "verxnemakarovo"
   },
   {
     "lng": 129.562737291013,
@@ -1131,7 +1131,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.7745983728644,
     "lng_origin": 60.985937291013016,
-    "OSTNameTranslit": "Podkova"
+    "OSTNameTranslit": "podkova"
   },
   {
     "lng": -8.63078845672996,
@@ -1145,7 +1145,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.744414059311,
     "lng_origin": 60.94601154327004,
-    "OSTNameTranslit": "Kosulinskie_dachi"
+    "OSTNameTranslit": "kosulinskiedachi"
   },
   {
     "lng": 131.142173897552,
@@ -1159,7 +1159,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.7789527111119,
     "lng_origin": 60.56537389755201,
-    "OSTNameTranslit": "Sosnovyj_bor Ekaterinburg UNCZ"
+    "OSTNameTranslit": "sosnovyjbor"
   },
   {
     "lng": -11.1656423919719,
@@ -1173,7 +1173,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.82422627462401,
     "lng_origin": 60.4111576080281,
-    "OSTNameTranslit": "Karaseozerskij_2"
+    "OSTNameTranslit": "karaseozerskij2"
   },
   {
     "lng": 133.111854206848,
@@ -1187,7 +1187,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.6630206365688,
     "lng_origin": 60.535054206848,
-    "OSTNameTranslit": "Lesnaya_polyana"
+    "OSTNameTranslit": "lesnayapolyana"
   },
   {
     "lng": -12.5705782287612,
@@ -1201,7 +1201,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.883710259081,
     "lng_origin": 61.0062217712388,
-    "OSTNameTranslit": "Stanovlyanka"
+    "OSTNameTranslit": "stanovlyanka"
   },
   {
     "lng": 135.484359394836,
@@ -1215,7 +1215,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.9068443597197,
     "lng_origin": 60.907559394836,
-    "OSTNameTranslit": "SHishkino"
+    "OSTNameTranslit": "shishkino"
   },
   {
     "lng": -15.1309667938237,
@@ -1229,7 +1229,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.802177866352,
     "lng_origin": 60.4458332061763,
-    "OSTNameTranslit": "Palniks"
+    "OSTNameTranslit": "palniks"
   },
   {
     "lng": 137.335470140056,
@@ -1243,7 +1243,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.5088805619918,
     "lng_origin": 60.75867014005601,
-    "OSTNameTranslit": "Zelenyj_LOOK"
+    "OSTNameTranslit": "zelenyjlook"
   },
   {
     "lng": -16.7602370605647,
@@ -1257,7 +1257,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.613335889303016,
     "lng_origin": 60.8165629394353,
-    "OSTNameTranslit": "Pervomajskij_park"
+    "OSTNameTranslit": "pervomajskijpark"
   },
   {
     "lng": 139.479209553527,
@@ -1271,7 +1271,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.7169174140904,
     "lng_origin": 60.90240955352701,
-    "OSTNameTranslit": "Lesnoj_park"
+    "OSTNameTranslit": "lesnojpark"
   },
   {
     "lng": -18.3324139938536,
@@ -1285,7 +1285,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.686244653182996,
     "lng_origin": 61.2443860061464,
-    "OSTNameTranslit": "Izumrudnyj"
+    "OSTNameTranslit": "izumrudnyj"
   },
   {
     "lng": 142.203132569867,
@@ -1299,7 +1299,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.8003818146351,
     "lng_origin": 61.626332569867,
-    "OSTNameTranslit": "CHudova"
+    "OSTNameTranslit": "chudova"
   },
   {
     "lng": -20.2703424804688,
@@ -1313,7 +1313,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.77868934123501,
     "lng_origin": 61.3064575195312,
-    "OSTNameTranslit": "Gagarskij_klyuch"
+    "OSTNameTranslit": "gagarskijklyuch"
   },
   {
     "lng": 143.663874279785,
@@ -1327,7 +1327,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.7271051858776,
     "lng_origin": 61.087074279785014,
-    "OSTNameTranslit": "Bolshaya_medvedicza Malobrusyanskoe"
+    "OSTNameTranslit": "bolshayamedvedicza2"
   },
   {
     "lng": -22.5965150222957,
@@ -1341,7 +1341,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.78643991743502,
     "lng_origin": 60.9802849777043,
-    "OSTNameTranslit": "Ostrova"
+    "OSTNameTranslit": "ostrova"
   },
   {
     "lng": 145.56798547514,
@@ -1355,7 +1355,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.6765836343451,
     "lng_origin": 60.991185475140014,
-    "OSTNameTranslit": "Dom_bobra"
+    "OSTNameTranslit": "dombobra"
   },
   {
     "lng": -24.5159899108908,
@@ -1369,7 +1369,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.765898798544015,
     "lng_origin": 61.060810089109204,
-    "OSTNameTranslit": "Dubrava"
+    "OSTNameTranslit": "dubrava"
   },
   {
     "lng": 147.203253161239,
@@ -1383,7 +1383,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.8192377473207,
     "lng_origin": 60.626453161239,
-    "OSTNameTranslit": "Iset_Ekaterinburg"
+    "OSTNameTranslit": "isetparkovyj"
   },
   {
     "lng": -26.6860634201069,
@@ -1397,7 +1397,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.625263609705,
     "lng_origin": 60.8907365798931,
-    "OSTNameTranslit": "Krasnaya_polyana SHajdurovo"
+    "OSTNameTranslit": "krasnayapolyana2"
   },
   {
     "lng": 149.407782495099,
@@ -1411,7 +1411,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.5809497029609,
     "lng_origin": 60.83098249509902,
-    "OSTNameTranslit": "Lesnoj_ruchej"
+    "OSTNameTranslit": "lesnojruchej"
   },
   {
     "lng": -28.6687899940517,
@@ -1425,7 +1425,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.780949149554004,
     "lng_origin": 60.9080100059483,
-    "OSTNameTranslit": "Georgievskie_dachi"
+    "OSTNameTranslit": "georgievskiedachi"
   },
   {
     "lng": 151.559589993285,
@@ -1439,7 +1439,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.7688682492432,
     "lng_origin": 60.982789993284996,
-    "OSTNameTranslit": "Bristol"
+    "OSTNameTranslit": "bristol"
   },
   {
     "lng": -30.7551301346004,
@@ -1453,7 +1453,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.87010728191001,
     "lng_origin": 60.8216698653996,
-    "OSTNameTranslit": "Evropa_2 Berezovskij"
+    "OSTNameTranslit": "evropa2"
   },
   {
     "lng": 153.414691865521,
@@ -1467,7 +1467,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.8680390372533,
     "lng_origin": 60.837891865521016,
-    "OSTNameTranslit": "Markov_les"
+    "OSTNameTranslit": "markovles"
   },
   {
     "lng": -32.6989539489993,
@@ -1481,7 +1481,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.52870144811101,
     "lng_origin": 60.877846051000695,
-    "OSTNameTranslit": "Ilinskij_kvartal"
+    "OSTNameTranslit": "ilinskijkvartal"
   },
   {
     "lng": 155.102139413431,
@@ -1495,7 +1495,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.6989253901611,
     "lng_origin": 60.525339413431,
-    "OSTNameTranslit": "Sokol"
+    "OSTNameTranslit": "sokol"
   },
   {
     "lng": -34.7632681243902,
@@ -1509,7 +1509,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.81121045191702,
     "lng_origin": 60.8135318756098,
-    "OSTNameTranslit": "Sozvezdie_premium"
+    "OSTNameTranslit": "sozvezdiepremium"
   },
   {
     "lng": 156.778257310468,
@@ -1523,7 +1523,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.705417591315395,
     "lng_origin": 60.201457310468015,
-    "OSTNameTranslit": "Krylatovskij"
+    "OSTNameTranslit": "krylatovskij"
   },
   {
     "lng": -36.9204185829393,
@@ -1537,7 +1537,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.95971862448101,
     "lng_origin": 60.6563814170607,
-    "OSTNameTranslit": "Zavidovo"
+    "OSTNameTranslit": "zavidovo"
   },
   {
     "lng": 158.745314251705,
@@ -1551,7 +1551,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.8568708229412,
     "lng_origin": 60.168514251705005,
-    "OSTNameTranslit": "Xrustalnyj"
+    "OSTNameTranslit": "xrustalnyj"
   },
   {
     "lng": -38.6022068374735,
@@ -1565,7 +1565,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.77823221936001,
     "lng_origin": 60.974593162526496,
-    "OSTNameTranslit": "Polyanka_Rastushhij"
+    "OSTNameTranslit": "polyankarastushhij"
   },
   {
     "lng": 161.420356690961,
@@ -1579,7 +1579,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.5806654902747,
     "lng_origin": 60.84355669096101,
-    "OSTNameTranslit": "Rodnye_prostory"
+    "OSTNameTranslit": "rodnyeprostory"
   },
   {
     "lng": -40.5783029907239,
@@ -1593,7 +1593,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.729564086267004,
     "lng_origin": 60.9984970092761,
-    "OSTNameTranslit": "Novokosulino"
+    "OSTNameTranslit": "novokosulino"
   },
   {
     "lng": 163.365457236844,
@@ -1607,7 +1607,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.458287791574996,
     "lng_origin": 60.78865723684402,
-    "OSTNameTranslit": "Tixij_Zaliv"
+    "OSTNameTranslit": "tixijzaliv"
   },
   {
     "lng": -43.1816927307139,
@@ -1621,7 +1621,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.651072152213004,
     "lng_origin": 60.3951072692861,
-    "OSTNameTranslit": "Solnechnyj"
+    "OSTNameTranslit": "solnechnyj"
   },
   {
     "lng": 165.130694042969,
@@ -1635,7 +1635,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.784714665393196,
     "lng_origin": 60.553894042969006,
-    "OSTNameTranslit": "Amundsena-Vonsovskogo"
+    "OSTNameTranslit": "amundsenavonsovskogo"
   },
   {
     "lng": -45.2262388580346,
@@ -1649,7 +1649,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.72385277916601,
     "lng_origin": 60.3505611419654,
-    "OSTNameTranslit": "Evraziya_Ekaterinburg"
+    "OSTNameTranslit": "evraziya"
   },
   {
     "lng": 167.063831936645,
@@ -1663,7 +1663,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.8179676361868,
     "lng_origin": 60.487031936644996,
-    "OSTNameTranslit": "Galaktika"
+    "OSTNameTranslit": "galaktika"
   },
   {
     "lng": -46.8472105377197,
@@ -1677,7 +1677,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.885447061541015,
     "lng_origin": 60.7295894622803,
-    "OSTNameTranslit": "Bolshaya_medvedicza Ekaterinburg"
+    "OSTNameTranslit": "bolshayamedvedicza"
   },
   {
     "lng": 169.503049027244,
@@ -1691,7 +1691,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.7561131052233,
     "lng_origin": 60.92624902724401,
-    "OSTNameTranslit": "Solnechnaya_polyana Proxladnyj"
+    "OSTNameTranslit": "solnechnayapolyana"
   },
   {
     "lng": -48.6173559539795,
@@ -1705,7 +1705,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.672873173423,
     "lng_origin": 60.9594440460205,
-    "OSTNameTranslit": "Dachnoe"
+    "OSTNameTranslit": "dachnoe"
   },
   {
     "lng": 171.856076181011,
@@ -1719,7 +1719,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.7619112211127,
     "lng_origin": 61.279276181011,
-    "OSTNameTranslit": "Kurmanskij_klyuch"
+    "OSTNameTranslit": "kurmanskijklyuch"
   },
   {
     "lng": -50.6944907531932,
@@ -1733,7 +1733,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.769877154019014,
     "lng_origin": 60.8823092468068,
-    "OSTNameTranslit": "Dom_v Istoke"
+    "OSTNameTranslit": "domvistoke"
   },
   {
     "lng": 172.972620904522,
@@ -1747,7 +1747,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.6449376075427,
     "lng_origin": 60.395820904522,
-    "OSTNameTranslit": "Morozovskie_dachi"
+    "OSTNameTranslit": "morozovskiedachi"
   },
   {
     "lng": -53.2985082977303,
@@ -1761,7 +1761,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.852349729660006,
     "lng_origin": 60.2782917022697,
-    "OSTNameTranslit": "Novye_Reshety"
+    "OSTNameTranslit": "novyereshety"
   },
   {
     "lng": 175.512238442974,
@@ -1775,7 +1775,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.5307766450226,
     "lng_origin": 60.935438442974004,
-    "OSTNameTranslit": "Park_Ezhevika(Zapovednik)"
+    "OSTNameTranslit": "parkezhevika"
   },
   {
     "lng": -54.755945526144,
@@ -1789,7 +1789,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.78198777528502,
     "lng_origin": 60.820854473856,
-    "OSTNameTranslit": "Zvyozdnyj"
+    "OSTNameTranslit": "zvyozdnyj"
   },
   {
     "lng": 177.740891397076,
@@ -1803,7 +1803,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.61125340574431,
     "lng_origin": 61.16409139707602,
-    "OSTNameTranslit": "Solnechnyj_bereg"
+    "OSTNameTranslit": "solnechnyjbereg"
   },
   {
     "lng": -56.6738484726133,
@@ -1817,7 +1817,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.58035759043901,
     "lng_origin": 60.902951527386705,
-    "OSTNameTranslit": "Bazhovskie_mesta"
+    "OSTNameTranslit": "bazhovskiemesta"
   },
   {
     "lng": 179.397627484128,
@@ -1831,7 +1831,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.865542975301295,
     "lng_origin": 60.82082748412802,
-    "OSTNameTranslit": "Evropa_Berezovskij"
+    "OSTNameTranslit": "evropa"
   },
   {
     "lng": -58.5311819427521,
@@ -1845,7 +1845,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.857103722717,
     "lng_origin": 61.04561805724791,
-    "OSTNameTranslit": "Serebryanaya_rechka"
+    "OSTNameTranslit": "serebryanayarechka"
   },
   {
     "lng": 180.906960427836,
@@ -1859,7 +1859,7 @@
     "IsAvdVisible": false,
     "lat_origin": 57.092592208301696,
     "lng_origin": 60.330160427836006,
-    "OSTNameTranslit": "Uralskaya_sloboda"
+    "OSTNameTranslit": "uralskayasloboda"
   },
   {
     "lng": -60.7638419494831,
@@ -1873,7 +1873,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.515975050446,
     "lng_origin": 60.8129580505169,
-    "OSTNameTranslit": "Evropa_Sysert"
+    "OSTNameTranslit": "evropasysert"
   },
   {
     "lng": 182.630472790526,
@@ -1887,7 +1887,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.92960564498111,
     "lng_origin": 60.05367279052601,
-    "OSTNameTranslit": "Molodezhnyj_Pervouralsk"
+    "OSTNameTranslit": "molodezhnyj"
   },
   {
     "lng": -62.5448290222211,
@@ -1901,7 +1901,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.69022643844002,
     "lng_origin": 61.0319709777789,
-    "OSTNameTranslit": "Xrizolitovyj"
+    "OSTNameTranslit": "xrizolitovyj"
   },
   {
     "lng": 184.729247987348,
@@ -1915,7 +1915,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.822932172915,
     "lng_origin": 60.15244798734801,
-    "OSTNameTranslit": "Rozhdestvenskij"
+    "OSTNameTranslit": "rozhdestvenskij"
   },
   {
     "lng": -65.0461660736094,
@@ -1929,7 +1929,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.705555771284,
     "lng_origin": 60.53063392639061,
-    "OSTNameTranslit": "Blagodatnyj"
+    "OSTNameTranslit": "blagodatnyj"
   },
   {
     "lng": 187.46226352461,
@@ -1943,7 +1943,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.76629505149201,
     "lng_origin": 60.88546352461,
-    "OSTNameTranslit": "Polyanka_Ekaterinburg Istok"
+    "OSTNameTranslit": "polyankaistok"
   },
   {
     "lng": -66.6406589859009,
@@ -1957,7 +1957,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.740542731958016,
     "lng_origin": 60.93614101409911,
-    "OSTNameTranslit": "Novyj_Istok"
+    "OSTNameTranslit": "novyjistok"
   },
   {
     "lng": 189.787127148437,
@@ -1971,7 +1971,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.75498153890311,
     "lng_origin": 61.21032714843702,
-    "OSTNameTranslit": "SHervud_Park"
+    "OSTNameTranslit": "shervudpark"
   },
   {
     "lng": -68.4819739685246,
@@ -1985,7 +1985,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.75870551508001,
     "lng_origin": 61.09482603147541,
-    "OSTNameTranslit": "Ryabina"
+    "OSTNameTranslit": "ryabina"
   },
   {
     "lng": 191.433746278362,
@@ -1999,7 +1999,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.55289704609281,
     "lng_origin": 60.85694627836202,
-    "OSTNameTranslit": "Gorki"
+    "OSTNameTranslit": "gorkikashino"
   },
   {
     "lng": -70.7335008011071,
@@ -2013,7 +2013,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.512416108742,
     "lng_origin": 60.84329919889291,
-    "OSTNameTranslit": "Krasnogorskij"
+    "OSTNameTranslit": "krasnogorskij"
   },
   {
     "lng": 193.598884522991,
@@ -2027,7 +2027,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.615607557165305,
     "lng_origin": 61.02208452299101,
-    "OSTNameTranslit": "Novofomino"
+    "OSTNameTranslit": "novofomino"
   },
   {
     "lng": -71.4228502624526,
@@ -2041,7 +2041,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.368292659892006,
     "lng_origin": 62.15394973754741,
-    "OSTNameTranslit": "Novoisetskij"
+    "OSTNameTranslit": "novoisetskij"
   },
   {
     "lng": 194.860863816069,
@@ -2055,7 +2055,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.7086661345149,
     "lng_origin": 60.28406381606902,
-    "OSTNameTranslit": "Zolotye_peski"
+    "OSTNameTranslit": "zolotyepeski"
   },
   {
     "lng": -74.6451381073195,
@@ -2069,7 +2069,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.73564462084502,
     "lng_origin": 60.93166189268051,
-    "OSTNameTranslit": "Myod"
+    "OSTNameTranslit": "myod"
   },
   {
     "lng": 197.246420800762,
@@ -2083,7 +2083,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.75031280608651,
     "lng_origin": 60.669620800762004,
-    "OSTNameTranslit": "Gorki_1"
+    "OSTNameTranslit": "gorki1"
   },
   {
     "lng": -76.3924096450984,
@@ -2097,7 +2097,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.67240193352302,
     "lng_origin": 61.18439035490161,
-    "OSTNameTranslit": "Aleksandriya"
+    "OSTNameTranslit": "aleksandriya"
   },
   {
     "lng": 199.52738755949,
@@ -2111,7 +2111,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.62057635277961,
     "lng_origin": 60.95058755949,
-    "OSTNameTranslit": "Svetlyj"
+    "OSTNameTranslit": "svetlyj"
   },
   {
     "lng": -78.5988109932161,
@@ -2125,7 +2125,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.709341874757,
     "lng_origin": 60.9779890067839,
-    "OSTNameTranslit": "Povarnya"
+    "OSTNameTranslit": "povarnya"
   },
   {
     "lng": 201.554046693113,
@@ -2139,7 +2139,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.70287835102451,
     "lng_origin": 60.97724669311302,
-    "OSTNameTranslit": "Krylya"
+    "OSTNameTranslit": "krylya"
   },
   {
     "lng": -80.8343947754134,
@@ -2153,7 +2153,7 @@
     "IsAvdVisible": false,
     "lat_origin": 57.270643607355,
     "lng_origin": 60.742405224586605,
-    "OSTNameTranslit": "Severnaya_Sloboda"
+    "OSTNameTranslit": "severnayasloboda"
   },
   {
     "lng": 202.973344933317,
@@ -2167,7 +2167,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.62688712112731,
     "lng_origin": 60.39654493331702,
-    "OSTNameTranslit": "Svetlyachok"
+    "OSTNameTranslit": "svetlyachok"
   },
   {
     "lng": -83.2622877471958,
@@ -2181,7 +2181,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.577962706251014,
     "lng_origin": 60.31451225280421,
-    "OSTNameTranslit": "Zolotoj_bereg"
+    "OSTNameTranslit": "zolotojbereg"
   },
   {
     "lng": 205.222618710326,
@@ -2195,7 +2195,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.7240065263977,
     "lng_origin": 60.64581871032601,
-    "OSTNameTranslit": "Serebryanyj_bor"
+    "OSTNameTranslit": "serebryanyjbor"
   },
   {
     "lng": -84.4919303283871,
@@ -2209,7 +2209,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.72224485795101,
     "lng_origin": 61.08486967161291,
-    "OSTNameTranslit": "Izumrudnaya_polyana"
+    "OSTNameTranslit": "izumrudnayapolyana"
   },
   {
     "lng": 207.525086056517,
@@ -2223,7 +2223,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.7327615958427,
     "lng_origin": 60.94828605651702,
-    "OSTNameTranslit": "Peresvet"
+    "OSTNameTranslit": "peresvet"
   },
   {
     "lng": -87.0103047714412,
@@ -2237,7 +2237,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.693376620365,
     "lng_origin": 60.56649522855881,
-    "OSTNameTranslit": "Romanovskij_kvartal"
+    "OSTNameTranslit": "romanovskijkvartal"
   },
   {
     "lng": 208.725600183087,
@@ -2251,7 +2251,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.8224144674587,
     "lng_origin": 60.14880018308702,
-    "OSTNameTranslit": "Volchixa"
+    "OSTNameTranslit": "volchixa"
   },
   {
     "lng": -88.8957637176707,
@@ -2265,7 +2265,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.94535544932202,
     "lng_origin": 60.6810362823293,
-    "OSTNameTranslit": "Vesyolaya_gorka"
+    "OSTNameTranslit": "vesyolayagorka"
   },
   {
     "lng": 211.059883724975,
@@ -2279,7 +2279,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.68687595161521,
     "lng_origin": 60.48308372497502,
-    "OSTNameTranslit": "Aerodrom"
+    "OSTNameTranslit": "aerodrom"
   },
   {
     "lng": -90.7165492401313,
@@ -2293,7 +2293,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.58949876428102,
     "lng_origin": 60.860250759868705,
-    "OSTNameTranslit": "Olxovka"
+    "OSTNameTranslit": "olxovka"
   },
   {
     "lng": 213.60545057066,
@@ -2307,7 +2307,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.7198144575148,
     "lng_origin": 61.028650570660005,
-    "OSTNameTranslit": "Novaya_Rassoxa 2"
+    "OSTNameTranslit": "novayarassoxa2"
   },
   {
     "lng": -93.0542929992858,
@@ -2321,7 +2321,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.70289166884501,
     "lng_origin": 60.5225070007142,
-    "OSTNameTranslit": "Zolotoj_lug"
+    "OSTNameTranslit": "zolotojlug"
   },
   {
     "lng": 215.55605500944,
@@ -2335,7 +2335,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.75472157017241,
     "lng_origin": 60.97925500944001,
-    "OSTNameTranslit": "Skandinaviya"
+    "OSTNameTranslit": "skandinaviya"
   },
   {
     "lng": -94.5378767364517,
@@ -2349,7 +2349,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.72055220381702,
     "lng_origin": 61.03892326354831,
-    "OSTNameTranslit": "Rassoxa"
+    "OSTNameTranslit": "rassoxa"
   },
   {
     "lng": 216.923697412091,
@@ -2363,7 +2363,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.55422433171701,
     "lng_origin": 60.34689741209101,
-    "OSTNameTranslit": "Gorodok_solncza 2"
+    "OSTNameTranslit": "gorodoksolncza2"
   },
   {
     "lng": -97.1677881591813,
@@ -2377,7 +2377,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.65853708873601,
     "lng_origin": 60.40901184081871,
-    "OSTNameTranslit": "Romanovo"
+    "OSTNameTranslit": "romanovo"
   },
   {
     "lng": 219.644589364604,
@@ -2391,7 +2391,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.75670180874201,
     "lng_origin": 61.06778936460401,
-    "OSTNameTranslit": "Verxnee_Dubrovo"
+    "OSTNameTranslit": "verxneedubrovo"
   },
   {
     "lng": -98.6430137977798,
@@ -2405,7 +2405,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.668940454471,
     "lng_origin": 60.933786202220205,
-    "OSTNameTranslit": "Rastorguev"
+    "OSTNameTranslit": "rastorguev"
   },
   {
     "lng": 221.282914768981,
@@ -2419,7 +2419,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.66052432602301,
     "lng_origin": 60.706114768980996,
-    "OSTNameTranslit": "9_YArdov"
+    "OSTNameTranslit": "9yardov"
   },
   {
     "lng": -100.709538113404,
@@ -2433,7 +2433,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.778336703342006,
     "lng_origin": 60.86726188659601,
-    "OSTNameTranslit": "YUzhnyj"
+    "OSTNameTranslit": "yuzhnyj"
   },
   {
     "lng": 223.149904191568,
@@ -2447,7 +2447,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.677233290676,
     "lng_origin": 60.57310419156801,
-    "OSTNameTranslit": "Aist"
+    "OSTNameTranslit": "aist"
   },
   {
     "lng": -102.423523269676,
@@ -2461,7 +2461,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.678284530683015,
     "lng_origin": 61.15327673032401,
-    "OSTNameTranslit": "Meshkov_Log"
+    "OSTNameTranslit": "meshkovlog"
   },
   {
     "lng": 225.780330598432,
@@ -2475,7 +2475,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.64545777334301,
     "lng_origin": 61.203530598431996,
-    "OSTNameTranslit": "Divnopole"
+    "OSTNameTranslit": "divnopole"
   },
   {
     "lng": -104.841223847203,
@@ -2489,7 +2489,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.865699662286005,
     "lng_origin": 60.73557615279701,
-    "OSTNameTranslit": "Turgenev_Park"
+    "OSTNameTranslit": "turgenevpark"
   },
   {
     "lng": 227.355211198407,
@@ -2503,7 +2503,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.509948380641006,
     "lng_origin": 60.778411198407014,
-    "OSTNameTranslit": "Orlyonok"
+    "OSTNameTranslit": "orlyonok"
   },
   {
     "lng": -107.341010414141,
@@ -2517,7 +2517,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.64796392302202,
     "lng_origin": 60.23578958585901,
-    "OSTNameTranslit": "Kungurka"
+    "OSTNameTranslit": "kungurka"
   },
   {
     "lng": 229.207882821637,
@@ -2531,7 +2531,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.721525192932006,
     "lng_origin": 60.63108282163702,
-    "OSTNameTranslit": "Rudnyj_ZHSK"
+    "OSTNameTranslit": "rudnyjzhsk"
   },
   {
     "lng": -109.162252079773,
@@ -2545,7 +2545,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.819507844827,
     "lng_origin": 60.41454792022701,
-    "OSTNameTranslit": "Karaseozerskij"
+    "OSTNameTranslit": "karaseozerskij"
   },
   {
     "lng": 230.920451771543,
@@ -2559,7 +2559,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.62011232066901,
     "lng_origin": 60.343651771542994,
-    "OSTNameTranslit": "YUzhnaya_dolina"
+    "OSTNameTranslit": "yuzhnayadolina"
   },
   {
     "lng": -110.616599403401,
@@ -2573,7 +2573,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.660255819195015,
     "lng_origin": 60.96020059659901,
-    "OSTNameTranslit": "Bobrovskij"
+    "OSTNameTranslit": "bobrovskij2"
   },
   {
     "lng": 233.554080903608,
@@ -2587,7 +2587,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.783778119101,
     "lng_origin": 60.977280903608005,
-    "OSTNameTranslit": "Rastushhij"
+    "OSTNameTranslit": "rastushhij"
   },
   {
     "lng": -112.91286028557,
@@ -2601,7 +2601,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.76123142115401,
     "lng_origin": 60.66393971443,
-    "OSTNameTranslit": "Marshal"
+    "OSTNameTranslit": "marshal"
   },
   {
     "lng": 235.354454647826,
@@ -2615,7 +2615,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.45727222705,
     "lng_origin": 60.77765464782601,
-    "OSTNameTranslit": "Serebryanoe_kopytcze"
+    "OSTNameTranslit": "serebryanoekopytcze"
   },
   {
     "lng": -115.137447010804,
@@ -2629,7 +2629,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.958875240206,
     "lng_origin": 60.43935298919601,
-    "OSTNameTranslit": "Kirpichnyj"
+    "OSTNameTranslit": "kirpichnyj"
   },
   {
     "lng": 237.623791348265,
@@ -2643,7 +2643,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.72531903955499,
     "lng_origin": 61.04699134826501,
-    "OSTNameTranslit": "Zemlyanichnaya_polyana"
+    "OSTNameTranslit": "zemlyanichnayapolyana"
   },
   {
     "lng": -118.772478710938,
@@ -2657,7 +2657,7 @@
     "IsAvdVisible": false,
     "lat_origin": 57.31243245385102,
     "lng_origin": 58.80432128906199,
-    "OSTNameTranslit": "Prigore"
+    "OSTNameTranslit": "prigore"
   },
   {
     "lng": 239.541635453777,
@@ -2671,7 +2671,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.581186544666,
     "lng_origin": 60.964835453777,
-    "OSTNameTranslit": "ZHuravli"
+    "OSTNameTranslit": "zhuravli"
   },
   {
     "lng": -118.747834526081,
@@ -2685,7 +2685,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.86423128676901,
     "lng_origin": 60.828965473919,
-    "OSTNameTranslit": "Aziya"
+    "OSTNameTranslit": "aziya"
   },
   {
     "lng": 241.472214352416,
@@ -2699,7 +2699,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.714356922641,
     "lng_origin": 60.895414352416,
-    "OSTNameTranslit": "Zelenye_prostory"
+    "OSTNameTranslit": "zelenyeprostory"
   },
   {
     "lng": -121.032583367157,
@@ -2713,7 +2713,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.77543161554601,
     "lng_origin": 60.54421663284299,
-    "OSTNameTranslit": "Polyanka_Ekaterinburg YU-Z"
+    "OSTNameTranslit": "polyankayuz"
   },
   {
     "lng": 243.151507984923,
@@ -2727,7 +2727,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.673747197080985,
     "lng_origin": 60.57470798492301,
-    "OSTNameTranslit": "Lugovoe_SHabrovskij"
+    "OSTNameTranslit": "lugovoeshabrovskij"
   },
   {
     "lng": -123.08551944428,
@@ -2741,7 +2741,7 @@
     "IsAvdVisible": false,
     "lat_origin": 57.02229814509002,
     "lng_origin": 60.49128055572001,
-    "OSTNameTranslit": "CHeremushki"
+    "OSTNameTranslit": "cheremushki"
   },
   {
     "lng": 245.479145180508,
@@ -2755,7 +2755,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.94525713858499,
     "lng_origin": 60.90234518050801,
-    "OSTNameTranslit": "Ruchi"
+    "OSTNameTranslit": "ruchi"
   },
   {
     "lng": -125.027170501727,
@@ -2769,7 +2769,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.686905952215994,
     "lng_origin": 60.54962949827299,
-    "OSTNameTranslit": "Krasnaya_polyana Ekaterinburg"
+    "OSTNameTranslit": "krasnayapolyana"
   },
   {
     "lng": 247.602333676141,
@@ -2783,7 +2783,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.71568228349699,
     "lng_origin": 61.02553367614098,
-    "OSTNameTranslit": "Rassoxa_YUg 2"
+    "OSTNameTranslit": "rassoxayug2"
   },
   {
     "lng": -126.664020858783,
@@ -2797,7 +2797,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.76042625912501,
     "lng_origin": 60.91277914121699,
-    "OSTNameTranslit": "Prossvet"
+    "OSTNameTranslit": "prossvet"
   },
   {
     "lng": 249.322767198163,
@@ -2811,7 +2811,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.802383179748006,
     "lng_origin": 60.74596719816299,
-    "OSTNameTranslit": "CHistye_ruchi"
+    "OSTNameTranslit": "chistyeruchi"
   },
   {
     "lng": -128.886064849873,
@@ -2825,7 +2825,7 @@
     "IsAvdVisible": false,
     "lat_origin": 57.19083676069499,
     "lng_origin": 60.69073515012698,
-    "OSTNameTranslit": "Lebedevo"
+    "OSTNameTranslit": "lebedevo"
   },
   {
     "lng": 251.067705046461,
@@ -2839,7 +2839,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.708904208627985,
     "lng_origin": 60.490905046460966,
-    "OSTNameTranslit": "Zelenyj_gorod"
+    "OSTNameTranslit": "zelenyjgorod"
   },
   {
     "lng": -130.594798408528,
@@ -2853,7 +2853,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.709052731513,
     "lng_origin": 60.982001591472,
-    "OSTNameTranslit": "Grafskij_lug"
+    "OSTNameTranslit": "grafskijlug"
   },
   {
     "lng": 252.997559916304,
@@ -2867,7 +2867,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.965399624490004,
     "lng_origin": 60.42075991630401,
-    "OSTNameTranslit": "Liverpul"
+    "OSTNameTranslit": "liverpul"
   },
   {
     "lng": -133.593996368426,
@@ -2881,7 +2881,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.972154406719994,
     "lng_origin": 59.982803631574,
-    "OSTNameTranslit": "Malinovka"
+    "OSTNameTranslit": "malinovka"
   },
   {
     "lng": 255.526915490704,
@@ -2895,7 +2895,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.87534788646499,
     "lng_origin": 60.95011549070398,
-    "OSTNameTranslit": "Stanicza"
+    "OSTNameTranslit": "stanicza"
   },
   {
     "lng": -133.899296414185,
@@ -2909,7 +2909,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.377982434729006,
     "lng_origin": 61.677503585815,
-    "OSTNameTranslit": "Bolshoj_Sungul"
+    "OSTNameTranslit": "bolshojsungul"
   },
   {
     "lng": 257.40410770111,
@@ -2923,7 +2923,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.78406845090399,
     "lng_origin": 60.82730770110999,
-    "OSTNameTranslit": "Malo-Istokskie_prudy"
+    "OSTNameTranslit": "maloistokskieprudy"
   },
   {
     "lng": -136.752083145161,
@@ -2937,7 +2937,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.789619692588985,
     "lng_origin": 60.82471685483898,
-    "OSTNameTranslit": "Art-NuvoEvro"
+    "OSTNameTranslit": "artnuvoevro"
   },
   {
     "lng": 258.961993824767,
@@ -2951,7 +2951,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.651900318565,
     "lng_origin": 60.385193824766986,
-    "OSTNameTranslit": "Zubrovo"
+    "OSTNameTranslit": "zubrovo"
   },
   {
     "lng": -138.733500801108,
@@ -2965,7 +2965,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.585212634106995,
     "lng_origin": 60.843299198892,
-    "OSTNameTranslit": "Klever_Kashino"
+    "OSTNameTranslit": "kleverkashino"
   },
   {
     "lng": 261.638066232281,
@@ -2979,7 +2979,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.63890789429999,
     "lng_origin": 61.061266232281014,
-    "OSTNameTranslit": "Klyuchi"
+    "OSTNameTranslit": "klyuchi"
   },
   {
     "lng": -141.065649639893,
@@ -2993,7 +2993,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.70817963223203,
     "lng_origin": 60.511150360106996,
-    "OSTNameTranslit": "Zolotoj_Karp"
+    "OSTNameTranslit": "zolotojkarp"
   },
   {
     "lng": 263.309865605162,
@@ -3007,7 +3007,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.43269084711099,
     "lng_origin": 60.73306560516198,
-    "OSTNameTranslit": "Finskij_zaliv"
+    "OSTNameTranslit": "finskijzaliv"
   },
   {
     "lng": -142.551754318256,
@@ -3021,7 +3021,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.711082591882985,
     "lng_origin": 61.02504568174399,
-    "OSTNameTranslit": "Bolshaya_Rassoxa"
+    "OSTNameTranslit": "bolshayarassoxa"
   },
   {
     "lng": 265.063901841718,
@@ -3035,7 +3035,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.69984617168299,
     "lng_origin": 60.487101841718015,
-    "OSTNameTranslit": "Ekodole"
+    "OSTNameTranslit": "ekodole"
   },
   {
     "lng": -144.914174400349,
@@ -3049,7 +3049,7 @@
     "IsAvdVisible": false,
     "lat_origin": 57.09359674202199,
     "lng_origin": 60.662625599650994,
-    "OSTNameTranslit": "Baltymskie_dachi"
+    "OSTNameTranslit": "baltymskiedachi"
   },
   {
     "lng": 267.096018444824,
@@ -3063,7 +3063,7 @@
     "IsAvdVisible": false,
     "lat_origin": 57.12953184719598,
     "lng_origin": 60.51921844482399,
-    "OSTNameTranslit": "Raduga"
+    "OSTNameTranslit": "raduga"
   },
   {
     "lng": -146.552140556356,
@@ -3077,7 +3077,7 @@
     "IsAvdVisible": false,
     "lat_origin": 56.70123910307302,
     "lng_origin": 61.024659443644,
-    "OSTNameTranslit": "Darvin"
+    "OSTNameTranslit": "darvin"
   },
   {
     "lng": 269.732694566327,
@@ -3091,6 +3091,6 @@
     "IsAvdVisible": false,
     "lat_origin": 56.71297073568999,
     "lng_origin": 61.15589456632699,
-    "OSTNameTranslit": "Gusevo"
+    "OSTNameTranslit": "gusevo"
   }
 ]
